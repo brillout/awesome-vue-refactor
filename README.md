@@ -214,22 +214,22 @@
 
 ### Component Collections
 
-- [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
-- [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
-- [**vue-mdl ★436**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
-- [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
-- [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
-- [**VUX ★6316**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI. By [@airyland](https://github.com/airyland) <sup>2.x compatible</sup>
-- [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
-- [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/): Vue.js Multiple file upload component support ie9 [lianyue.org](http://www.lianyue.org) by LianYue
-- [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
-  - [vue-materialize ★66](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for `vue-comps`
-  - [vue-clusterize ★28](https://github.com/vue-comps/vue-clusterize): implementation of clusterize.js in vue, invisible pagination
-  - [vue-data-table ★7](https://github.com/vue-comps/vue-data-table): A high-customizable data-table based on vue-clusterize
-  - [vue-side-nav ★9](https://github.com/vue-comps/vue-side-nav): responsive, touch enabled side nav
-  - [vue-parallax ★3](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
-  - [vue-zoombox ★0](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
-  - [vue-icons ★10](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
+- [VueStrap](http://yuche.github.io/vue-strap/) no v2
+- [VueBoot](http://morgul.github.io/vueboot/) no v2
+- [**vue-mdl ★436**](https://github.com/posva/vue-mdl) good
+- [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast) no v2
+- [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
+- [**VUX ★6316**](https://github.com/airyland/vux) good - but no english doc
+- [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
+- [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
+- [vue-comps](https://github.com/vue-comps) duplicate
+  - [vue-materialize ★66](https://github.com/paulpflug/vue-materialize) no v2
+  - [vue-clusterize ★28](https://github.com/vue-comps/vue-clusterize) no v2
+  - [vue-data-table ★7](https://github.com/vue-comps/vue-data-table) no v2
+  - [vue-side-nav ★9](https://github.com/vue-comps/vue-side-nav) good
+  - [vue-parallax ★3](https://github.com/vue-comps/vue-parallax) good
+  - [vue-zoombox ★0](https://github.com/vue-comps/vue-zoombox) no v2
+  - [vue-icons ★10](https://github.com/vue-comps/vue-icons) good
 - [**Keen-UI ★1516**](https://github.com/JosephusPaye/Keen-UI): A collection of essential UI components inspired by Material Design <sup>1.0, 2.0</sup>
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
 - [vue-spectre](https://vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by [@vace](http://github.com/vace) <sup>1.0</sup>
