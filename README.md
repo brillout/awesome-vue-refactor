@@ -219,7 +219,7 @@
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl) good
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast) no v2
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
-- [**VUX ★6316**](https://github.com/airyland/vux) good - but no english doc
+- [**VUX ★6316**](https://github.com/airyland/vux) no english doc
 - [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
 - [vue-comps](https://github.com/vue-comps) duplicate
@@ -230,75 +230,75 @@
   - [vue-parallax ★3](https://github.com/vue-comps/vue-parallax) good
   - [vue-zoombox ★0](https://github.com/vue-comps/vue-zoombox) no v2
   - [vue-icons ★10](https://github.com/vue-comps/vue-icons) good
-- [**Keen-UI ★1516**](https://github.com/JosephusPaye/Keen-UI): A collection of essential UI components inspired by Material Design <sup>1.0, 2.0</sup>
-- [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
-- [vue-spectre](https://vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by [@vace](http://github.com/vace) <sup>1.0</sup>
-- [**vue-desktop ★219**](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
-- [smart ★25](https://github.com/shenlq/smart): Reusable mobile components based on Vue, by [@shenlq](https://github.com/shenlq)
-- [**vue-admin ★397**](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
-- [vue-kit ★3](https://github.com/gismall/vue-kit): Vue Website Framework, by [@gismall](https://github.com/gismall),[demo:http://vue-kit.gismall.com](http://vue-kit.gismall.com)
-- [vue-material-design ★11](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
-- [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
-- [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
-- [**Vuikit ★400**](https://github.com/vuikit/vuikit): A collection of Vue native components outputting [UIkit](http://getuikit.com) layout <sup>2.0</sup>
-- [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components, by [@fundon](https://github.com/fundon)
-  - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb): Breadcrumb component for Vue Bulma
-  - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
-  - [vue-bulma-chartjs](https://github.com/vue-bulma/chartjs): Chartjs component is based on chart.js for Vue Bulma
-  - [vue-bulma-chartist](https://github.com/vue-bulma/chartist): Chartist component is based on Chartist for Vue Bulma
-  - [vue-bulma-datepicker](https://github.com/vue-bulma/datepicker): Datepicker component is based on flatpickr for Vue Bulma
-  - [vue-bulma-message](https://github.com/vue-bulma/message): Message component for Vue Bulma
-  - [vue-bulma-modal](https://github.com/vue-bulma/modal): Modal component for Vue Bulma
-  - [vue-bulma-notification](https://github.com/vue-bulma/notification): Notification component for Vue Bulma
-  - [vue-bulma-progress-bar](https://github.com/vue-bulma/progress-bar): ProgressBar component for Vue Bulma
-  - [vue-bulma-progress-tracker](https://github.com/vue-bulma/progress-tracker): ProgressTracker component is based on progress-tracker for Vue Bulma
-  - [vue-bulma-rating](https://github.com/vue-bulma/rating): Rating component is based on starability.css for Vue Bulma
-  - [vue-bulma-slider](https://github.com/vue-bulma/slider): Slider component for Vue Bulma
-  - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
-  - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
-  - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
-  - [vue-bulma-expanding](https://github.com/vue-bulma/expanding): The Expanding Transition Component for Vue 2.0
-- [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
-- [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
-- [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
-- [vue-carbon](https://github.com/myronliu347/vue-carbon) Material Design Mobile UI Components
-- [**quasar-framework :star:1005**](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids. Endless list of components with Material and iOS themes. Build responsive websites and hybrid mobile Apps (that look native!) using same code, with Vue 2. Electron App included. With Webpack 2. By [@rstoenescu](https://github.com/rstoenescu) <sup>2.x compatible</sup>
-- [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking) Websites & native mobile Apps. Full Stack Toolkit.
-- [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload): A vue plugin for image to crop and upload  [@Vanthink-UED](https://github.com/Vanthink-UED)
-- [**ElementUI ★7,500**](https://github.com/ElemeFE/element): Desktop UI elements for Vue.js 2.0  [@ElemeFE](https://github.com/ElemeFE)
-- [vue-beauty](https://github.com/FE-Driver/vue-beauty): Beautiful UI components build with vue and ant design
-- [Radon UI](https://github.com/luojilab/radon-ui): A elegant, simple, and efficient UI framework
-- [vue-antd](https://github.com/okoala/vue-antd): Vue UI Component & Ant.Design
-- [iView](https://github.com/iview/iview): A high quality UI Components Library with Vue.js
-- [wovue](https://github.com/wovue): A collection of Vue components, a11y friendly, by [@wochap](https://github.com/wochap/).
-  - [vue-off-canvas](https://github.com/wovue/off-canvas) - A off-canvas component for Vue.js. <sup>1.x compatible</sup>
-  - [vue-dialog](https://github.com/wovue/dialog) - A dialog component for Vue.js. <sup>1.x compatible</sup>
-  - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
-- [**BootstrapVue**](https://bootstrap-vue.github.io) **Bootstrap 4** Components compatible with **Vue.js 2**. [![npm](https://img.shields.io/npm/dt/bootstrap-vue.svg?style=plastic&label=downloads)](http://npmjs.com/package/bootstrap-vue) [![GitHub stars](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?style=social&label=  &style=plastic)](https://github.com/bootstrap-vue/bootstrap-vue)
-- [vue-codemirror ★](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-- [vue-video-player ★](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-- [**vue-material ★1550**](https://vuematerial.github.io) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup> by [@marcosmoura](https://github.com/marcosmoura)
-- [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
-- [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
-- [vue-highcharts](https://github.com/weizhenye/vue-highcharts) [![vue-highcharts](https://img.shields.io/github/stars/weizhenye/vue-highcharts.svg?label=%E2%98%85)](https://github.com/weizhenye/vue-highcharts) Highcharts component for Vue. 
-- [muse-ui](https://github.com/museui/muse-ui) [![muse-ui](https://img.shields.io/github/stars/museui/muse-ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/museui/muse-ui) Material Desgin UI library for Vuejs 2.0
-- [**vonic ★275**](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
-- [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
-- [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) Plugin to integrate prosemirror with Vue 2 <sup>2.x compatible</sup> by [@eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe)
-- [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet/) Vue2 component that helps with leaflet interaction (Leaflet = a JavaScript library for interactive maps)
-- [vue-impression](https://github.com/NewDadaFE/vue-impression) A Vue.js 2.0 UI elements for mobile. by[@NewDadaFE](https://github.com/NewDadaFE)
-- [vue-github-corners](https://github.com/Roeefl/vue-github-corners) VueJS Component for Tholman's Github-Corners
-- [vue-clip](http://vueclip.adonisjs.com/) Hackable File Uploader For Vue.js 2.0.
-- [vue-numeric](https://github.com/kevinongko/vue-numeric) - Vue 2.0 Input field component to display currency value. By [@kevinongko](https://github.com/kevinongko).
-- [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
-- [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
-- [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
-- [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) - Simple File Upload component with upload progress, upload events for Vue.js. Supports Vue 2.x.
-- [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) - Vue component for highlighting the differences between 2 images, based on ZURB's [TwentyTwenty](http://zurb.com/playground/twentytwenty) plugin. Supports Vue 2.x.
-- [Vue-Blu](https://github.com/chenz24/vue-blu) [![Vue-Blu](https://img.shields.io/github/stars/chenz24/vue-blu.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma. by [@chenz24](https://github.com/chenz24)
-- [:hotsprings: **Onsen UI for Vue 2**](https://onsen.io/vue) [![Onsen UI](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OnsenUI/OnsenUI) - Complete set of Vue.js 2.x components to create hybrid & mobile web apps with iOS & Android native look and feel. Write code once and get it autostyled for each platform.
-- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui, el-table + el-pagination + custom filter and sort. by [@njleonzhang](https://github.com/njleonzhang/)
-- [vue-impress](https://github.com/superwf/vue-impress) - Inspired by [impress.js](https://github.com/impress/impress.js). Supports Vue 2.x. [demo](http://superwf.github.io/vue-impress-demo.html)
+- [**Keen-UI ★1516**](https://github.com/JosephusPaye/Keen-UI) good
+- [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge) no v2
+- [vue-spectre](https://github.com/vace/vue-spectre) no v2
+- [**vue-desktop ★219**](https://github.com/ElemeFE/vue-desktop) no v2
+- [vue-impression (previously smart)](https://github.com/NewDadaFE/vue-impression) no english docs, demo is buggy on desktop (cursor is hidden)
+- [**vue-admin ★397**](https://github.com/fundon/vue-admin) good
+- [vue-kit ★3](https://github.com/gismall/vue-kit) is not a library
+- [vue-material-design ★11](https://github.com/loujiayu/vue-material-design) no v2
+- [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui) good
+- [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown) no v2
+- [**Vuikit ★400**](https://github.com/vuikit/vuikit) good
+- [vue-bulma](https://github.com/vue-bulma) duplicate
+  - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb) duplicate
+  - [vue-bulma-collapse](https://github.com/vue-bulma/collapse) duplicate
+  - [vue-bulma-chartjs](https://github.com/vue-bulma/chartjs) duplicate
+  - [vue-bulma-chartist](https://github.com/vue-bulma/chartist) duplicate
+  - [vue-bulma-datepicker](https://github.com/vue-bulma/datepicker) duplicate
+  - [vue-bulma-message](https://github.com/vue-bulma/message) duplicate
+  - [vue-bulma-modal](https://github.com/vue-bulma/modal) duplicate
+  - [vue-bulma-notification](https://github.com/vue-bulma/notification) duplicate
+  - [vue-bulma-progress-bar](https://github.com/vue-bulma/progress-bar) duplicate
+  - [vue-bulma-progress-tracker](https://github.com/vue-bulma/progress-tracker) duplicate
+  - [vue-bulma-rating](https://github.com/vue-bulma/rating) duplicate
+  - [vue-bulma-slider](https://github.com/vue-bulma/slider) duplicate
+  - [vue-bulma-switch](https://github.com/vue-bulma/switch) duplicate
+  - [vue-bulma-tabs](https://github.com/vue-bulma/tabs) duplicate
+  - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip) duplicate
+  - [vue-bulma-expanding](https://github.com/vue-bulma/expanding) duplicate
+- [vue-disqus](https://github.com/ktquez/vue-disqus) good
+- [BootInput](https://github.com/neposoft/bootinput-vuejs) no v2
+- [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) good
+- [muse-ui (previously vue-carbon)](https://github.com/museui/muse-ui) english doc is messy (parts are not translated, english mistakes, dead links)
+- [**quasar-framework :star:1005**](https://github.com/rstoenescu/quasar-framework) good
+- [N3-components](https://github.com/N3-components/N3-components) no v2
+- [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload) good
+- [**ElementUI ★7,500**](https://github.com/ElemeFE/element) good
+- [vue-beauty](https://github.com/FE-Driver/vue-beauty) no english doc
+- [Radon UI](https://github.com/luojilab/radon-ui) no english doc
+- [vue-antd](https://github.com/okoala/vue-antd) no english doc
+- [iView](https://github.com/iview/iview) no english doc
+- [wovue](https://github.com/wovue) duplicate
+  - [vue-off-canvas](https://github.com/wovue/off-canvas) no v2
+  - [vue-dialog](https://github.com/wovue/dialog) no v2
+  - [vue-focus-trap](https://github.com/wovue/focus-trap) no v2
+- [**BootstrapVue**](https://bootstrap-vue.github.io) good
+- [vue-codemirror ★](https://github.com/surmon-china/vue-codemirror) wrappers around JS libs are fine, but the added value of this wrapper is too little
+- [vue-video-player ★](https://github.com/surmon-china/vue-video-player) from a lib KB size POV, it's not a good idea to bundle several wrappers in one lib
+- [**vue-material ★1550**](https://vuematerial.github.io) good
+- [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) good
+- [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) no live demo
+- [vue-highcharts](https://github.com/weizhenye/vue-highcharts) no v2
+- [muse-ui](https://github.com/museui/muse-ui) duplicate
+- [**vonic ★275**](https://github.com/wangdahoo/vonic) not sure how this relates to Ionic CSS components and + missing english usage doc
+- [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) no license
+- [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) this more a demo than a proper wrapper
+- [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet/) good
+- [vue-impression](https://github.com/NewDadaFE/vue-impression) duplicate
+- [vue-github-corners](https://github.com/Roeefl/vue-github-corners) added value too small
+- [vue-clip](http://vueclip.adonisjs.com/) good
+- [vue-numeric](https://github.com/kevinongko/vue-numeric) doc is lacking
+- [vue-morris](https://github.com/bbonnin/vue-morris) good
+- [Framework7 Vue](http://framework7.io/vue/) good
+- [vue-easy-toast](https://github.com/noru/vue-easy-toast) good
+- [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) good
+- [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) no docs, dependency on sass doesn't make sense
+- [Vue-Blu](https://github.com/chenz24/vue-blu) parts of the doc not translated + I'm confused as to why a starter kit would document the UI components of its dependency
+- [:hotsprings: **Onsen UI for Vue 2**](https://onsen.io/vue) good
+- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) from a lib KB size POV, the dependency on `element-ui` is quite a bad thing
+- [vue-impress](https://github.com/superwf/vue-impress) is not a library
 
 ### Libraries & Plugins
 
