@@ -1,17 +1,37 @@
 # Learning Material
 
-TODO; fill me
+ - TODO; Fill me
+
+
+
+
 
 # Components & Libraries
 
+
+
+
+
 ## UI Components
+
+### Table
+
+ - [vuetable-2](https://github.com/ratiw/vuetable-2)
+ - [vue-tables-2](https://github.com/matfish2/vue-tables-2)
 
 ### Notification
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
-- [vue-notifications](https://github.com/se-panfilov/vue-notifications)
-- [vue-easy-toast](https://github.com/noru/vue-easy-toast)
+ - [vue-notifications](https://github.com/se-panfilov/vue-notifications)
+ - [vue-easy-toast](https://github.com/noru/vue-easy-toast)
+
+### Loader
+
+*Loaders / Spinners / Progress bars — Let the user know that something is loading*
+
+ - [vue-progressbar](https://github.com/hilongjw/vue-progressbar)
+ - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar)
 
 ### Parallax
 
@@ -20,6 +40,7 @@ TODO; fill me
 ### Icons
 
  - [vue-icons](https://github.com/vue-comps/vue-icons)
+ - [vue-awesome](https://github.com/Justineo/vue-awesome)
 
 ### Menu
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav)
@@ -35,11 +56,51 @@ TODO; fill me
 ### Charts
 
  - [vue-morris](https://github.com/bbonnin/vue-morris)
+ - [vue-charts](https://github.com/haydenbbickerton/vue-charts)
+
+### Time
+
+*Display time / date / age*
+
+ - [vue-timeago](https://github.com/egoist/vue-timeago)
+
+### Infinite Scroll
+
+ - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading)
+
+### Markdown
+
+ - [vue-markdown](https://github.com/miaolz123/vue-markdown)
+
+###### Type Select
+
+*Let the user select a tag / something while typing*
+
+ - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput)
+
+### Miscellaneous
+
+ - [vue-avatar](https://github.com/eliep/vue-avatar)
+
+
 
 
 ### Form
 
 *Let the user create & edit data*
+
+### Date Picker
+
+ - [vue-datepicker](https://github.com/hilongjw/vue-datepicker)
+
+###### Select
+
+ - [vue-select](https://github.com/sagalbot/vue-select)
+ - [vue-multiselect](https://github.com/monterail/vue-multiselect)
+
+###### Color Picker
+
+ - [vue-color](https://github.com/xiaokaike/vue-color)
 
 ###### Image Manipulation
 
@@ -51,6 +112,14 @@ TODO; fill me
 
  - [vue-clip](https://github.com/thetutlage/vue-clip)
  - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload)
+
+###### Miscellaneous
+
+ - [vue-gmaps](https://github.com/ridermansb/vue-gmaps)
+
+
+
+
 
 
 
@@ -83,9 +152,34 @@ TODO; fill me
  - [mint-ui](https://github.com/ElemeFE/mint-ui)
 
 
-## Starter Kit
 
-*Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
+
+
+
+
+## UI Layout
+
+*Layout for the overall / main view*
+
+ - [vue-waterfall](https://github.com/MopTym/vue-waterfall)
+
+
+
+
+
+
+
+## Utilities
+
+ - TODO; Fill me
+
+###### Miscellaneous
+
+ - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor)
+
+
+
+
 
 
 ## Integrations
@@ -93,4 +187,30 @@ TODO; fill me
 *Integrate with services or other frameworks*
 
  - [vue-disqus](https://github.com/ktquez/vue-disqus)
+ - [vue-ua](https://github.com/ScreamZ/vue-analytics)
+ - [vue-youtube-embed](https://github.com/kaorun343/vue-youtube-embed)
 
+
+
+
+
+
+
+## Starter Kit
+
+*Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
+
+ - TODO; Fill me
+
+
+
+## Dev Tools
+
+### Source Code Editing
+
+*Text editor plugins*
+
+###### Atom
+
+ - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete)
+ - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)

@@ -199,7 +199,7 @@
 
 ### Snippets
 
-- [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [vue-snippets](https://atom.io/packages/vue-snippets) good
 - [Vue.js Brazil Code Snippets](https://github.com/vuejs-br/snippets)
  - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
  - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
@@ -208,9 +208,9 @@
 
 ### Autocomplete
 
-- [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
-- [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
-- [vue-gmaps](https://github.com/ridermansb/vue-gmaps) Vue.js plugin to allow search places using Google Maps API by [@ridermansb](https://twitter.com/ridermansb)
+- [vue-autocomplete](https://atom.io/packages/vue-autocomplete) good
+- [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) is not a library
+- [vue-gmaps](https://github.com/ridermansb/vue-gmaps) good
 
 ### Component Collections
 
@@ -375,65 +375,65 @@
 
 - #### UI Components
 
-  - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
-  - [Vue Crop](http://pespantelis.github.io/vue-crop/)
-  - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/)
-  - [Typed select component ★4](https://github.com/dgerber/vue-select-js) by @dgerber
-  - [vue-select ★59](https://github.com/Haixing-Hu/vue-select): A Vue.js component implementing the select control with the [jQuery select2 plugin](https://github.com/select2/select2).  By @Haixing-Hu
-  - [vue-html-editor ★97](https://github.com/Haixing-Hu/vue-html-editor): A Vue.js component implementing the HTML editor with the [jQuery summernote plugin](https://github.com/summernote/summernote). By @Haixing-Hu
-  - [vue-datetime-picker ★92](https://github.com/Haixing-Hu/vue-datetime-picker): A Vue.js component implementing the datetime picker control using the [Eonasdan's bootstrap datetime picker plugin](https://github.com/Eonasdan/bootstrap-datetimepicker). By @Haixing-Hu
-  - [vue-country-select ★12](https://github.com/Haixing-Hu/vue-country-select): A Vue.js component implementing the select control used to select countries. It depends on [vue-select](https://github.com/Haixing-Hu/vue-select) and [vue-i18n](https://github.com/Haixing-Hu/vue-i18n). By @Haixing-Hu
-  - [Form generation from JSON Schema ★22](https://github.com/dgerber/vue-formidable) by @dgerber
-  - [vue-panel ★40](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
-  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
-  - [vue-transition ★39](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
-  - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
-  - [Vue YouTube Embed ★19](https://github.com/kaorun343/vue-youtube-embed): a component for Vue.js and YouTube by @kaorun343
-  - [**Vue datepicker ★124**](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
-  - [vue-date-picker ★31](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
-  - [**vue-spinner ★240**](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
-  - [vue-image-loader ★23](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
-  - [Vue-progressbar ★73](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
-  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor): An interceptor for vue-resource that adds automated progressbar (that is up one line) to all http requests
-  - [Famous-Vue ★13](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
-  - [**vue-waterfall ★296**](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
-  - [vue-charts ★35](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
-  - [**vue-select ★305**](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
-  - [Vue-slide ★60](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
-  - [Vue-quill ★10](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
-  - [vue-pagenav ★12](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
-  - [Vue-calendar ★7](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by [@cucygh](http://github.com/cucygh)
-  - [vue-autocomplete ★35](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-loading-bar ★50](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-bootstrap-modal ★20](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
-  - [vue-waves ★6](https://github.com/Teddy-Zhu/vue-waves):Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
-  - [vue-table] (https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
-  - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
-  - [vue-smart-table ★100] (https://github.com/gurghet/vue-smart-table): A simple grid component for building rich reactive tables
-  - [fire-select] (https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
-  - [vue-color ★125](https://github.com/xiaokaike/vue-color), Color picker
-  - [vue-avatar ★27](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
-  - [vue-msui ★17](https://github.com/yjj5855/vue-msui) by [@yjj5855](https://github.com/yjj5855) : A Vue modal
-  - [vue-file-base64 ★5](https://github.com/BosNaufal/vue-file-base64) - Vue Component for Converting File to base64 by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-ripple ★11](https://github.com/BosNaufal/vue-ripple) - Vue Component to Make Google Material Design Ripple Effect by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-scrollbar ★19](https://github.com/BosNaufal/vue-scrollbar) - The Simplest Scroll Area Component with custom scrollbar for Vue by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-tagsinput ★10](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
-  - [vue-markdown ★57](https://github.com/miaolz123/vue-markdown): A Powerful and Highspeed Markdown Parser for Vue1.x.x & Vue2.0.x. By [@miaolz123](https://github.com/miaolz123)
-  - [vue-awesome ★236](https://github.com/Justineo/vue-awesome): Font Awesome component for Vue.js, using inline SVG. By [@Justineo](https://github.com/Justineo)
-  - [vue-smoothscroll ★1](https://github.com/Teddy-Zhu/vue-smoothscroll):scroll website smoothly  , By [@Teddy-Zhu](https://github.com/Teddy-Zhu)
-  - [vue-breadcrumbs ★11](https://github.com/samturrell/vue-breadcrumbs): Implements simple breadcrumb functionality with vue-router. By [@SamTurrell](https://github.com/samturrell)
-  - [vue-datepicker ★15](https://github.com/weifeiyue/vue-datepicker): datepicker component for Vue.js. By [@weifeiyue](https://github.com/weifeiyue)
-  - [vue-timeago ★59](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
-  - [vue-calendar ★26](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
-  - [**vue-multiselect ★371**](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
-  - [vue-infinite-loading ★72](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0. By [@PeachScript](https://github.com/PeachScript)
-  - [vue-swipe ★100](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-loadmore ★63](https://github.com/mint-ui/mint-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-tree-view ★7](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
-  - [vue-swiper ★23](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
-  - [vue-peity ★12](https://github.com/vue-bulma/peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
-  - [vue-area ★5](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
-  - [vue-stroll ★8](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
+  - [vue-countup ★11](https://github.com/samcrosoft/vue-countup) added value is too small
+  - [Vue Crop](http://pespantelis.github.io/vue-crop/) no v2, jQuery dependency
+  - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/) no v2
+  - [Typed select component ★4](https://github.com/dgerber/vue-select-js) unmaintained
+  - [vue-select ★59](https://github.com/Haixing-Hu/vue-select) no v2
+  - [vue-html-editor ★97](https://github.com/Haixing-Hu/vue-html-editor) no v2
+  - [vue-datetime-picker ★92](https://github.com/Haixing-Hu/vue-datetime-picker) no v2
+  - [vue-country-select ★12](https://github.com/Haixing-Hu/vue-country-select) no v2
+  - [Form generation from JSON Schema ★22](https://github.com/dgerber/vue-formidable) unmaintained
+  - [vue-panel ★40](https://github.com/ericmcdaniel/vue-panel) unmaintained
+  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/) no v2
+  - [vue-transition ★39](https://github.com/Twiknight/vue-transition) unmaintained
+  - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons) unmaintained
+  - [Vue YouTube Embed ★19](https://github.com/kaorun343/vue-youtube-embed) good
+  - [**Vue datepicker ★124**](https://github.com/hilongjw/vue-datepicker) good
+  - [vue-date-picker ★31](https://github.com/Bubblings/vue-date-picker) no v2
+  - [**vue-spinner ★240**](https://github.com/greyby/vue-spinner) no v2
+  - [vue-image-loader ★23](https://github.com/eduardostuart/vue-image-loader) unmaintained
+  - [Vue-progressbar ★73](https://github.com/hilongjw/vue-progressbar) good
+  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) good
+  - [Famous-Vue ★13](https://github.com/irwansyahwii/Famous-Vue) Famous is dead
+  - [**vue-waterfall ★296**](https://github.com/MopTym/vue-waterfall) good
+  - [vue-charts ★35](https://github.com/haydenbbickerton/vue-charts) good
+  - [**vue-select ★305**](https://github.com/sagalbot/vue-select) good
+  - [Vue-slide ★60](https://github.com/hilongjw/vue-slide) unmaintained (issues and PRs ignored)
+  - [Vue-quill ★10](https://github.com/CroudSupport/vue-quill) no v2 (in dev but not on npm yet)
+  - [vue-pagenav ★12](https://github.com/zxdong262/vue-pagenav) no v2
+  - [Vue-calendar ★7](https://github.com/cucygh/vue-calendar) no demo
+  - [vue-autocomplete ★35](https://github.com/BosNaufal/vue-autocomplete) no v2
+  - [vue-loading-bar ★50](https://github.com/BosNaufal/vue-loading-bar) good
+  - [vue-bootstrap-modal ★20](https://github.com/Coffcer/vue-bootstrap-modal) no v2
+  - [vue-waves ★6](https://github.com/Teddy-Zhu/vue-waves) no demo
+  - [vue-table] (https://github.com/ratiw/vue-table) good
+  - [vue-tables] (https://github.com/matfish2/vue-tables) good
+  - [vue-smart-table ★100] (https://github.com/gurghet/vue-smart-table) no v2 yet
+  - [fire-select] (https://github.com/firework/fire-select) no v2
+  - [vue-color ★125](https://github.com/xiaokaike/vue-color) good
+  - [vue-avatar ★27](https://github.com/eliep/vue-avatar) good
+  - [vue-msui ★17](https://github.com/yjj5855/vue-msui) readme not in english
+  - [vue-file-base64 ★5](https://github.com/BosNaufal/vue-file-base64) more a demo than a lib
+  - [vue-ripple ★11](https://github.com/BosNaufal/vue-ripple) no v2
+  - [vue-scrollbar ★19](https://github.com/BosNaufal/vue-scrollbar) demo is buggy
+  - [vue-tagsinput ★10](https://github.com/Ginhing/vue-tagsinput) good
+  - [vue-markdown ★57](https://github.com/miaolz123/vue-markdown) good
+  - [vue-awesome ★236](https://github.com/Justineo/vue-awesome) good
+  - [vue-smoothscroll ★1](https://github.com/Teddy-Zhu/vue-smoothscroll) added value too small
+  - [vue-breadcrumbs ★11](https://github.com/samturrell/vue-breadcrumbs) no v2
+  - [vue-datepicker ★15](https://github.com/weifeiyue/vue-datepicker) no demo
+  - [vue-timeago ★59](https://github.com/egoist/vue-timeago) good
+  - [vue-calendar ★26](https://github.com/ihanyang/vue-calendar) no v2
+  - [**vue-multiselect ★371**](https://github.com/monterail/vue-multiselect) good
+  - [vue-infinite-loading ★72](https://github.com/PeachScript/vue-infinite-loading) good
+  - [vue-swipe ★100](https://github.com/ElemeFE/vue-swipe) no demo
+  - [vue-loadmore ★63](https://github.com/mint-ui/mint-loadmore) no demo
+  - [vue-tree-view ★7](https://github.com/10quality/vue-tree-view) no v2
+  - [vue-swiper ★23](https://github.com/weilao/vue-swiper) no v2
+  - [vue-peity ★12](https://github.com/vue-bulma/peity) no demo (linking to the jQuery version is not a demo)
+  - [vue-area ★5](https://github.com/blue0728/vue-area) readme not in english
+  - [vue-stroll ★8](https://github.com/xiaoluoboding/vue-stroll) no v2
   - [Vue.Draggable ★201](https://github.com/SortableJS/Vue.Draggable): Vue.js 2.0 component to drag-and-drop elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
   - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
@@ -542,10 +542,10 @@
   - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
 
 - #### Analytics
-  - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
+  - [vue-ua](https://github.com/ScreamZ/vue-analytics) good
 
 - #### Advertising
-  - [**vue-adsense [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-adsense.svg?style=social&label=Star)](https://github.com/darrynten/vue-adsense)**](https://github.com/darrynten/vue-adsense): Google Adsense implementation for Vue.JS 2+
+  - [vue-adsense](https://github.com/darrynten/vue-adsense) added value too small
 
 - #### Examples
 
