@@ -434,96 +434,95 @@
   - [vue-peity ★12](https://github.com/vue-bulma/peity) no demo (linking to the jQuery version is not a demo)
   - [vue-area ★5](https://github.com/blue0728/vue-area) readme not in english
   - [vue-stroll ★8](https://github.com/xiaoluoboding/vue-stroll) no v2
-  - [Vue.Draggable ★201](https://github.com/SortableJS/Vue.Draggable): Vue.js 2.0 component to drag-and-drop elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
-  - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
-  - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
-  - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel): A responsive carousel(namely slider or swiper) component for Vue.js v2.x+. By [@lsycxyj]
-  - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
-  - [vue-cleave](https://github.com/vue-bulma/cleave) Cleave component is based on [cleave.js](https://github.com/nosir/cleave.js) for Vue. By [@fundon](https://github.com/fundon)
-  - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China.
-  - [vue-form](https://github.com/10quality/vue-form): Form handler component (async/ajax) for Vuejs. Facilitates requests, responses and results handling. [@10quality](https://github.com/10quality)
-  - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
-  - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) [![GitHub stars](https://img.shields.io/github/stars/Wanderxx/vue-fullcalendar.svg?style=social&label=Star&maxAge=2592000)]() : A Pure Vue Schedule Full Calendar, events, schedule. [@Wanderxx](https://github.com/Wanderxx)
-  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
-  - **vue-timepicker**: A dropdown time picker *(hour|minute|second)* for VueJs, with flexible time format support
-    - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker): The Vue 1.x version By @phoenixwong
-    - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker): The Vue 2.x version By @phoenixwong
-  - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) A fullcalendar.js wrapper for Vue.js @brockreece
-  - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker): A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. By [@charliekassel](https://github.com/charliekassel)
-  - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table): A sortable and searchable table, as a Vue component, using bootstrap styling.
-  - [vue-image-clip](https://github.com/legeneek/vue-image-clip): A component for cliping image. By [@legeneek](https://github.com/legeneek)
-  - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue
-  - [vue-chartjs ★7](https://github.com/apertureless/vue-chartjs) - A simple wrapper for ChartJs in Vue [@apertureless](https://github.com/apertureless)
-  - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js. [@dalphyx](https://github.com/dalphyx)
-  - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](https://github.com/handsontable/handsontable) for Vue, by [@fundon](https://github.com/fundon)
-  - [vue-nprogress](https://github.com/vue-bulma/nprogress) - NProgress component is based on [nprogress](https://github.com/rstacruz/nprogress) for Vue, by [@fundon](https://github.com/fundon)
-  - [vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vue.js. [@dalphyx](https://github.com/dalphyx)
-  - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) - A progressbar interceptors for vue-resource using `NProgress` by [@imcvampire](https://github.com/imcvampire)
-  - [vue-datatable](https://github.com/galenyuan/vue-datatable) - A Datatable component for Vuejs, has all feature of jQuery Datatables by [@galenyuan](https://github.com/galenyuan)
-  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
-  - [vue-radial-progress ★13](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar component for Vue 1.x and 2.x <sup>1.0 and 2.0 compatible</sup>
-  - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
-  - [vue-awesome-swiper ★236](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
-  - [vue-touch-ripple ★46](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-  - [vue-tree ★1](https://github.com/weibangtuo/vue-tree): Vue Tree View Component [@weibangtuo](https://github.com/weibangtuo)
-  - [vue-img-loader](https://github.com/JackGit/vue-img-loader) - An image loader UI component for Vue.js 2.0, which supports preview, blur preview and other customize way while loading the image. [@jackgit](https://github.com/JackGit)
-  - [vue-typewriter](https://github.com/eduardostuart/vue-typewriter): Vue component that types by @eduardostuart
-  - [vue-charts [![GitHub stars](http://vue-charts.hchspersonal.tk/stars.svg)](https://github.com/hchstera/vue-charts)](https://github.com/hchstera/vue-charts): [Chart.js](http://www.chartjs.org/) plugin for Vue 2
-  - [vue-lory](https://github.com/vue-bulma/lory)  Touch enabled minimalistic slider for Vue, based on [lory](https://github.com/meandmax/lory). By [@fundon](https://github.com/fundon)
-  - [vue-slick](https://github.com/staskjs/vue-slick) Vue 2.0 component for [this Slick-carousel](http://kenwheeler.github.io/slick) By [@staskjs](https://github.com/staskjs)
-  - [vue-mugen-scroll ★90](https://github.com/egoist/vue-mugen-scroll) Infinite scroll component for Vue.js 2.0
-  - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) Virtual keyboard component for Vue.js. Designed to Raspberry Pi Touch Display
-  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing): A Vue.js component for sharing links to social networks, work with Vue 1.X or 2.X.
-  - [vue-shortkey](https://github.com/iFgR/vue-shortkey) Apply shortcuts to your elements in a simple way.
-  - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) a scroll component with function of pull up refresh and pull down load more for Vue. By <a href="https://github.com/uniquezhuo">uniquezhuo</a>.
-  - [side-effect](https://github.com/egoist/side-effect): Create Vue components with global side effects
-  - [vue-button](https://github.com/steven5538/vue-button): Button component for Vue.js v2.0.1+. by [@steven5538](https://github.com/steven5538)
-  - [vue-viewports](https://github.com/scaccogatto/vue-viewports): define your custom viewports and use them in your components
-  - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event): throttle events based on requestAnimationFrame
-  - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
-  - [vue-cmap](https://github.com/doodlewind/vue-cmap) China map visualizing component for Vue.js 2.0
-  - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) A simple virtual keyboard component for Vue.js 2.0.
-  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) A Vue 2.0 component for [Flickity](https://github.com/metafizzy/flickity) By [@metafizzy](https://github.com/metafizzy)
-  - [vue-aplayer[![GitHub stars](https://img.shields.io/github/stars/SevenOutman/vue-aplayer.svg?style=social&label=Star)](https://github.com/SevenOutman/vue-aplayer)](https://github.com/SevenOutman/vue-aplayer) Easy-to-config music player with controls.
-  - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint): component for Vue, this is the easiest way to trigger a function when you scroll [Waypoints](http://imakewebthings.com/waypoints/)-like
-  - [vue-online](https://github.com/Sopamo/vue-online): A reactive online/offline component for Vue.js 2.0 which shows a message when the user is offline and provides a convenient reactive online variable
-  - [vuetify **★951**](https://github.com/vuetifyjs/vuetify): A material design semantic component framework for Vue.js 2
-  - [v-tooltip](https://github.com/Akryum/vue-tooltip): Easy tooltips with tether-tooltip <sup>2.0+</sup> by [@Akryum](https://github.com/Akryum)
-  - [vue-at](https://github.com/fritx/vue-at): At.js for Vue
-  - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
-  - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) Quill editor component for Vue2  [@Surmon](https://github.com/surmon-china)
-  - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) Dom Drag Zone component for Vue.js(2.x)  [@Surmon](https://github.com/surmon-china)
-  - [Vuep](https://github.com/QingWei-Li/vuep) A component for rendering Vue components with live editor and preview.<sup>2.0</sup>
-  - [vue-mobiledoc-editor ★](https://github.com/alidcastano/vue-mobiledoc-editor) a mobiledoc editor component toolkit for Vue2.
-  - [vue-typer](https://github.com/cngu/vue-typer): Vue <sup>2.x+</sup> component that simulates a user typing, selecting, and erasing text. By [@cngu](https://github.com/cngu).
+  - [Vue.Draggable ★201](https://github.com/SortableJS/Vue.Draggable) good
+  - [vue-chart ★10](https://github.com/miaolz123/vue-chart) readme doesn't explain what this lib is about, e.g. how it relates to chartjs
+  - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel) readme not in english
+  - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel) good
+  - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope) good
+  - [vue-cleave](https://github.com/vue-bulma/cleave) documentation is lacking, e.g. readme doesn't say if it supports all cleave.js's input formats
+  - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) unmaintained
+  - [vue-form](https://github.com/10quality/vue-form) no v2
+  - [vue-social-shares](https://github.com/10quality/vue-social-shares) no v2
+  - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) good (Although having events in the live demo would have been nice)
+  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) good
+  - **vue-timepicker** duplicate
+    - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker) duplicate
+    - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) good
+  - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) jQuery dependency
+  - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) good
+  - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table) no v2
+  - [vue-image-clip](https://github.com/legeneek/vue-image-clip) no v2
+  - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) no v2
+  - [vue-chartjs ★7](https://github.com/apertureless/vue-chartjs) good
+  - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) good
+  - [vue-handsontable](https://github.com/vue-bulma/handsontable) documentation is lacking, e.g. readme doesn't say if it supports all Handsontable's input formats
+  - [vue-nprogress](https://github.com/vue-bulma/nprogress) good (altough readme could be better and demo missing)
+  - [vue-headroom](https://github.com/dalphyx/vue-headroom) no demo, webpack requirement
+  - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) requires to install via global window object
+  - [vue-datatable](https://github.com/galenyuan/vue-datatable) no v2, no ES5 version
+  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) no live demo
+  - [vue-radial-progress ★13](https://github.com/wyzant-dev/vue-radial-progress) good
+  - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) good
+  - [vue-awesome-swiper ★236](https://github.com/surmon-china/vue-awesome-swiper) good (although readme not entirely in english)
+  - [vue-touch-ripple ★46](https://github.com/surmon-china/vue-touch-ripple) good (although readme not entirely in english)
+  - [vue-tree ★1](https://github.com/weibangtuo/vue-tree) no v2
+  - [vue-img-loader](https://github.com/JackGit/vue-img-loader) added value is too small (it doesn't implement lazy load)
+  - [vue-typewriter](https://github.com/eduardostuart/vue-typewriter) not a library
+  - [vue-charts](https://github.com/hchstera/vue-charts) good (`Work well with Laravel` -> not sure how it relates to Laravel)
+  - [vue-lory](https://github.com/vue-bulma/lory) good (but doc could be better)
+  - [vue-slick](https://github.com/staskjs/vue-slick) good
+  - [vue-mugen-scroll ★90](https://github.com/egoist/vue-mugen-scroll) good
+  - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) no v2
+  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) good
+  - [vue-shortkey](https://github.com/iFgR/vue-shortkey) good
+  - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) not a library
+  - [side-effect](https://github.com/egoist/side-effect) readme should elaborate more
+  - [vue-button](https://github.com/steven5538/vue-button) added value too small
+  - [vue-viewports](https://github.com/scaccogatto/vue-viewports) good
+  - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event) good
+  - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) good
+  - [vue-cmap](https://github.com/doodlewind/vue-cmap) too specific
+  - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) no live demo
+  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) good
+  - [vue-aplayer](https://github.com/SevenOutman/vue-aplayer) good
+  - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint) good
+  - [vue-online](https://github.com/Sopamo/vue-online) added value too small / shouldn't be a ui component, no live demo
+  - [vuetify **★951**](https://github.com/vuetifyjs/vuetify) good
+  - [v-tooltip](https://github.com/Akryum/vue-tooltip) good
+  - [vue-at](https://github.com/fritx/vue-at) no live demo
+  - [vue-parallax](https://github.com/apertureless/vue-parallax) good
+  - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) good
+  - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) good
+  - [Vuep](https://github.com/QingWei-Li/vuep) good
+  - [vue-mobiledoc-editor ★](https://github.com/alidcastano/vue-mobiledoc-editor) good
+  - [vue-typer](https://github.com/cngu/vue-typer) good (although too specific?)
+  - [vue-instant](https://github.com/santiblanko/vue-instant) good
+  - [pinch-slider](https://github.com/katik/pinch-slider) no live demo
+  - [vue-event-calendar ★10](https://github.com/GeoffZhu/vue-event-calendar) good
+  - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) readme not in english
+  - [vue-countup-v2](https://github.com/xlsdg/vue-countup-v2) added value too small
+  - [vue-odometer](https://github.com/xlsdg/vue-odometer) added value too small, code could be cleaner
+  - [vue-duoshuo](https://github.com/xlsdg/vue-duoshuo) added value too small, code populates global window object
+  - [vue-places](https://github.com/Gomah/vue-places) good (altough added value is small)
+  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) good
+  - [vue-echarts ★194](https://github.com/Justineo/vue-echarts) good (although it'd be good to add a link to the source code for each snippet in the live demo)
+  - [vue-audio ★9](https://github.com/shershen08/vuejs-sound-player) good (although it's specific)
+  - [tinymce-vue-2](https://github.com/mbouclas/tinymce-vue-2) added value too small
+  - [v-qrcode](https://github.com/atwxp/v-qrcode) added value too small, should state that it's based on https://github.com/atwxp/v-qrcode
+  - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git) live demo seems to be buggy
+  - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) readme doesn't explain what the lib does
+  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) good
+  - [vue-switches](https://github.com/drewjbartlett/vue-switches) good
+  - [vue-masked-input](https://niksmr.github.io/vue-masked-input/) good
+  - [vue-droppler](https://github.com/joearcher/vue-droppler) added vaue too small
+  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) good
+  - [vue-flatpickr](https://github.com/jrainlau/vue-flatpickr) good
+  - [vue-popper-component ★6](https://github.com/antongorodezkiy/vue-popper-component) good
+  - [vue-simplemde ★17](https://github.com/F-loat/vue-simplemde) not sure what this lib does
+  - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) good (although readme could be more explicit about what properties are reproduced)
+  - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) good
+  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar) good
 
-  - [vue-instant](https://github.com/santiblanko/vue-instant): Vue <sup>2.x+</sup> Vue instant allows you to easily create autosuggest for your vue application. By [@santiblanko](https://github.com/santiblanko).
-  - [pinch-slider](https://github.com/katik/pinch-slider): a vue based mobile slider(or swiper) for images which can be zoomed or pinched.
-  - [vue-event-calendar ★10](https://github.com/GeoffZhu/vue-event-calendar): A simple events calendar for Vue2\. By @GeoffZhu
-  - [vue-echarts-v3 ![vue-echarts-v3](https://img.shields.io/github/stars/xlsdg/vue-echarts-v3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-echarts-v3): Vue.js(v2.x+) component wrap for ECharts.js(v3.x+)
-  - [vue-countup-v2 ![vue-countup-v2](https://img.shields.io/github/stars/xlsdg/vue-countup-v2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-countup-v2): Vue.js(v2.x+) component wrap for countUp.js(v1.x+)
-  - [vue-odometer ![vue-odometer](https://img.shields.io/github/stars/xlsdg/vue-odometer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-odometer): Vue.js(v2.x+) component wrap for Odometer.js
-  - [vue-duoshuo ![vue-duoshuo](https://img.shields.io/github/stars/xlsdg/vue-duoshuo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-duoshuo): Vue.js(v2.x+) component wrap for DuoShuo.js
-  - [vue-places](https://github.com/Gomah/vue-places) Vue 2.x component based on [places.js](https://github.com/algolia/places).
-  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) Vue.js component to visualize password strength.
-  - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
-  - [vue-audio ★9](https://github.com/shershen08/vuejs-sound-player) Vue.js sound audio player UI. Covers audio-tag API and adds more. By @shershen08
-  - [tinymce-vue-2](https://github.com/mbouclas/tinymce-vue-2) TinyMCE for Vue 2
-  - [v-qrcode](https://github.com/atwxp/v-qrcode) [![v-qrcode](https://img.shields.io/github/stars/atwxp/v-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atwxp/v-qrcode) : A QRCode Component for Vue 2
-  - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git): thumbnail-slider is a simple slider for a list of images which can be used in photo albums likewise and has both row and column modes.
-  - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) Photonkit components for Vue 2
-  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - Vue.js(v2.x+) component for creating pagination.
-  - [vue-switches](https://github.com/drewjbartlett/vue-switches) - Simple on/off switches with theme support for bulma, bootstrap, and custom themes.
-  - [vue-masked-input ![vue-masked-input](https://img.shields.io/github/stars/niksmr/vue-masked-input.svg?style=social&label=Star&maxAge=2592000)](https://niksmr.github.io/vue-masked-input/) - Simple masked input component for Vue.js 2.X.
-  - [vue-droppler](https://github.com/joearcher/vue-droppler) - Droppler is a Vue 2 component for creating fixed position "dropdown" content using drop.js.
-  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A Vue.js server side component to create dynamic tables. Compatible with Vue 2.x and Laravel.
-  - [vue-flatpickr](https://github.com/jrainlau/vue-flatpickr) - A datepicker based on flatpickr.
-  - [vue-popper-component ★6](https://github.com/antongorodezkiy/vue-popper-component) - Simple Vue.js (v1) component for [Popper.js](https://popper.js.org/) plugin.
-  - [vue-simplemde ★17](https://github.com/F-loat/vue-simplemde) - Markdown Editor component for Vue.js(v2) based on [simplemde](https://github.com/NextStepWebs/simplemde-markdown-editor).
-  - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) - Vue 2 directive for masonry blocks layouting
-  - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) - Rich Grid with full Vue Component support
-  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar): A Vue.js component that provides "Add to Calendar" functionality, work with Vue 2.X.
-  
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
