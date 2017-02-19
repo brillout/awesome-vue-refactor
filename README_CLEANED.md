@@ -225,6 +225,7 @@ Tooltips / popovers
 
  - [framework7-vue](https://github.com/nolimits4web/Framework7)
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI)
+ - [vux](https://github.com/airyland/vux)
 
 ### Component Collections
 
@@ -273,6 +274,23 @@ Tooltips / popovers
 ### Viewport
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports)
+
+### Form Validation
+
+ - [vue-validator](https://github.com/kazupon/vue-validator)
+ - [vee-validate](https://github.com/logaretm/vee-validate)
+ - [vue-formly](https://github.com/formly-js/vue-formly)
+ - [vue-rawmodel](https://github.com/xpepermint/vue-rawmodel)
+ - [vuelidate](https://github.com/monterail/vuelidate)
+ - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator)
+
+### Routing
+
+ - [vue-router](https://github.com/vuejs/vue-router)
+
+### Asset Management
+
+ - [vue-script2](https://github.com/taoeffect/vue-script2)
 
 ### Miscellaneous
 

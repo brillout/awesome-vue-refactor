@@ -219,7 +219,7 @@
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl) good
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast) no v2
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
-- [**VUX ★6316**](https://github.com/airyland/vux) no english doc
+- [**VUX ★6316**](https://github.com/airyland/vux) good (although english doc missing)
 - [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
 - [vue-comps](https://github.com/vue-comps) duplicate
@@ -304,13 +304,13 @@
 
 - #### Routing
 
-  - [**vue-router ★3,171**](https://github.com/vuejs/vue-router) - Official router for building SPAs. <sup>1.0 compatible</sup>
-  - [Vue page ★15](https://github.com/AlexToudic/vue-page), a routing system based on pagejs by @AlexToudic
-  - [Vue Lanes ★21](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
-  - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
-  - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
-  - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
-  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991
+  - [**vue-router ★3,171**](https://github.com/vuejs/vue-router) good
+  - [Vue page ★15](https://github.com/AlexToudic/vue-page) unmaintained
+  - [Vue Lanes ★21](https://github.com/bpierre/vue-lanes) no v2, unmaintained
+  - [Vue route ★73](https://github.com/ayamflow/vue-route) unmaintained
+  - [**voie ★130**](https://github.com/inca/voie) unmaintained
+  - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) good
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) readme doesn't explain enough
 
 - #### Ajax/Data
 
@@ -353,25 +353,25 @@
 
 - #### Validation
 
-  - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>2.0 compatible</sup>
-  - [Vue validator ★41](https://github.com/xrado/vue-validator) by @xrado
-  - [**vue-form ★147**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
-  - [Vuex Validator ★2](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
-  - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
-  - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
-  - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
-  - [Vue-Laravel-Validator ★26](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
-  - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
-  - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
-  - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
-  - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
-  - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
-  - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
-  - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
-  - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
-  - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
-  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
-  - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) - Simple, yet flexible solution aimed to support both basic and complex validation scenarios <sup>2.0 compatible</sup>
+  - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) good
+  - [Vue validator ★41](https://github.com/xrado/vue-validator) no v2
+  - [**vue-form ★147**](https://github.com/fergaldoyle/vue-form) no v2
+  - [Vuex Validator ★2](https://github.com/sebastian-software/vuex-validator) no v2
+  - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) doc is lacking, e.g. what is the string `'required,email'` about? Is it an array encoded in a string? Why not having `['required, 'email']` then?
+  - [vue-verify](https://github.com/PeakTai/vue-verify) doc is lacking, has typos and e.g. `Get more information from examples.`.
+  - [vee-validate](https://github.com/logaretm/vee-validate) good
+  - [Vue-Laravel-Validator ★26](https://github.com/MetinSeylan/Vue-Laravel-Validator) no v2
+  - [vue-formly](https://github.com/matt-sanders/vue-formly) good
+  - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) duplicate
+  - [vue-formular](https://github.com/matfish2/vue-formular) duplicate
+  - [Vuerify](https://github.com/QingWei-Li/vuerify) no english docs
+  - [vue-data-validator](https://github.com/phphe/vue-data-validator) readme not in english
+  - [vue-form-2](https://github.com/matfish2/vue-form-2) why having both ui components and form validation into one lib? Why not a lib for each?
+  - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) no v2
+  - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) added value is too small
+  - [vue-contextable](https://github.com/xpepermint/vue-contextable) good
+  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) good
+  - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) good
 
 - #### UI Components
 
