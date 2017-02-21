@@ -870,35 +870,35 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [TravelMap](http://clem.travelmap.fr) good
   - [movienote.org](http://movienote.org) good
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) good
-  - [CheckIt ★0](https://github.com/julesbou/checkit) not in the right section
-  - [Reddit News ★34](https://github.com/Mati365/reddit-news) not in the right section
+  - [CheckIt ★0](https://github.com/julesbou/checkit) good link to the website
+  - [Reddit News ★34](https://github.com/Mati365/reddit-news) good
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/) good
   - [小桃酱](https://app.xiaotaojiang.com/) good
   - [金哲博客](http://jinzhe.net/) good
-  - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) not in the right section
+  - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) good link to the website
   - [Zova](https://zova.com/) good
   - [风投侠](https://vcshare.cn/) infinite loading
   - [COPA 2016](http://www.ca2016.com/) error
-  - [vNotes](https://halfeld.github.io/v-notes/#!/) not in the right section
+  - [vNotes](https://halfeld.github.io/v-notes/#!/) good
   - [Subordination](http://subordination.cu.cc/) good
   - [SPA Blog](http://ktquez.com/) good
   - [WP ERP](https://wordpress.org/plugins/erp/) good
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
-  - [Dermail](https://github.com/zllovesuki/dermail-webmail) opensource webmail client written in Vue
+  - [Dermail](https://github.com/zllovesuki/dermail-webmail) opensource webmail client written in Vue, no website
   - [octimine](https://www.octimine.com/) good
   - [Draxed](https://www.draxed.com/) good
   - [蜜蜂聚财](http://www.beejc.com/webapp/) redirect to http://app.beejc.com
   - [Leapspotleap](http://www.leapspotleap.com) good
   - [Bayo](http://bayo.vn) good (no english)
   - [X-SONGTAO★11](http://xiangsongtao.com) good (no english)
-  - [Cinemateka](http://cinema.seance.ru) Film & events schedule SPA made with Vue & Laravel 5. Russian. <sup>[[Source]](https://github.com/Piterden/cinemateka)</sup>
+  - [Cinemateka](http://cinema.seance.ru)
   - [Jobinja](https://jobinja.ir) good no english
   - [滚蛋吧！莆田系](https://putianxi.github.io/) good no english
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/) good
   - [Citymoods](http://citymoods.cc) good
   - [Approach0](http://approach0.xyz) good
   - [The Spice House](https://www.thespicehouse.com) good
-  - [豆瓣 ★198](https://github.com/jiakeqi/douban) no website/app
+  - [豆瓣 ★198](https://github.com/jiakeqi/douban) no english, no idea what it is
   - [Livestorm](http://livestorm.co) good
   - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo) it is an example
   - [Metric Loop](https://metricloop.com) good
