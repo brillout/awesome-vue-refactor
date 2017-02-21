@@ -364,7 +364,7 @@ Tooltips / popovers
  - [Vuedo](https://github.com/Vuedo/vuedo)
  - [vue-music163](https://github.com/pluto1114/vue-music163)
  - [Tomato5](https://github.com/zhangxin840/tomato5)
- - [Peek-a-tab, Tabs Manager for Google Chrome™]https://github.com/pramjeet/peek-a-tab)
+ - [Peek-a-tab, Tabs Manager for Google Chrome™](https://github.com/pramjeet/peek-a-tab)
  - [Web Learn](https://github.com/freearhey/web-learn)
  - [ExcelJSON](https://github.com/palerdot/exceljson)
  - [Materialize-blog](https://github.com/forehalo/materialize-blog)
