@@ -334,3 +334,80 @@ Tooltips / popovers
 
  - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete)
  - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)
+
+
+
+
+
+# Projects Using Vue.js
+
+## Open Source
+
+ - [PageKit](https://github.com/pagekit/pagekit)
+ - [Python China](https://github.com/zerqu/qingcheng)
+ - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com)
+ - [Koel](https://github.com/phanan/koel)
+ - [RSS Reader](https://github.com/mrgodhani/rss-reader)
+ - [Gokotta](https://github.com/Zhangdroid/Gokotta)
+ - [CoPilot](https://github.com/misterGF/CoPilot)
+ - [Retrospectify](https://github.com/pepf/retrospectify)
+ - [jade-press](https://github.com/jade-press/jade-press)
+ - [astralapp](https://github.com/astralapp/astral)
+ - [EME - Elegant Markdown Editor](https://github.com/egoist/eme)
+ - [Github-explorer](https://github.com/SidKwok/github-explorer)
+ - [Hotel](https://github.com/typicode/hotel)
+ - [Surfbird](https://github.com/surfbirdapp/surfbird)
+ - [Approach0](https://github.com/approach0/search-engine)
+ - [Flox](https://github.com/devfake/flox)
+ - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/)
+ - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog)
+ - [Vuedo](https://github.com/Vuedo/vuedo)
+ - [Tomato5](https://github.com/zhangxin840/tomato5)
+ - [Web Learn](https://github.com/freearhey/web-learn)
+ - [Materialize-blog](https://github.com/forehalo/materialize-blog)
+ - [SDR News](https://github.com/super-dev/SDR-News)
+ - [PJ Blog](https://github.com/jcc/blog)
+
+
+
+
+## Commercial Products
+
+ - [Wijmo](http://wijmo.com/products/wijmo-5/)
+
+## Apps/Websites
+
+## Interactive Experiences
+
+ - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
+ - [Facebook NewsFeed](https://newsfeed.fb.com/)
+ - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
+ - [Omnisense Experience](http://omnisense.net)
+ - [Louis Ansa Website (portfolio)](http://louisansa.com)
+ - [Djeco.com](http://www.djeco.com/en)
+ - [Tolks.io](https://tolks.io)
+ - [Meet Graham](http://www.meetgraham.com.au)
+ - [NOIZE original](http://noizeoriginal.com)
+
+## Enterprise Usage
+
+ - Alibaba
+ - Baidu
+ - Sina Weibo
+ - Xiaomi
+ - Ele.me
+ - Optimizely
+ - Expedia
+ - UCWeb
+ - Line
+ - Nintendo
+ - Celtra
+ - [Sainsbury's](https://sainsburys.jobs/)
+ - [AREX](https://arex.io/)
+ - DJI
+ - Octimine GmbH
+ - Hunliji
+ - [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
+ - [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
+ - [ZenMate](https://zenmate.com)
+ - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)

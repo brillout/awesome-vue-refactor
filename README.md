@@ -180,7 +180,7 @@
 - [vue-styleguide-generator ★19](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
 - [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
 - **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
-- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications. 
+- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications.
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
 
@@ -346,7 +346,7 @@
   - [vuex-basement ★4](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
   - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share subset of application mutations accross different tabs/windows. Simpler, yet usually sufficient alternative to [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
   - [vuex-redux-saga](https://github.com/xanf/vuex-redux-saga) - Use all powers of [redux-saga](https://redux-saga.github.io/redux-saga/) with vuex. Build asynchronyous data flows with generators and channels
-  
+
 - #### Event Management
   - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two or more components. By [@gocanto](https://github.com/gocanto)
   - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Simple plugin to manage your custom events in the application. <sup>Compatible with Vue 1 and Vue 2</sup> By [Sandeep K](https://github.com/sandeepk01)
@@ -764,7 +764,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show given elements with the Bootstrap 4 / 3 or self defined breakpoints.
   - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
-  
+
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
@@ -792,145 +792,145 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### Open Source
 
-  - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup>
-  - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup>
-  - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup>
-  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup>
-  - [Todolist ★16](https://github.com/Memkits/todolist) by @jiyinyiyong
-  - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
-  - [a simple notepad ★47](https://github.com/sapjax/fewords)
-  - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
-  - [Koel](http://koel.phanan.net) <sup>[[Source]](https://github.com/phanan/koel)</sup> : Music streaming server
-  - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
-  - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
-  - [**RSS Reader ★193**](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
-  - [**Gokotta ★182**](https://github.com/Zhangdroid/Gokotta): A simple music player built by electron and vue.
-  - [Coffeebreak ★53](https://github.com/Kocisov/coffeebreak) Tool for live editing CSS components
-  - [BaiduHui: Push Notification - 百度惠：实时推送优惠](https://chrome.google.com/webstore/detail/blcmlhpbpimcnifnkgkfjhhmoolbidik)<sup>[[Source]](https://github.com/DanielZhu/Magnet-baiduhui-chrome-extension)</sup> A Chrome Extension allows user use Baidu-Hui services and recieves the push notification about the latest discount infos.
-  - [CoPilot](http://copilot.mistergf.io/) - An admin portal based on AdminLTE with vue.js integration. <sup>[[Source]](https://github.com/misterGF/CoPilot)</sup>
-  - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> A simple tool for doing collaborative retrospectives in agile teams.
-  - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> cms based on mongodb, nodejs, koa, vue and more.
-  - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> Organize Your GitHub Stars With Ease.
-  - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> A New Tab Chrome Extension gives you a moment to read the good quotations with their recommanded tools which were excerpted from the interviews made by liqi.com, you can always find your favorites.
-  - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
-  - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
-  - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> An Elegant Markdown Editor.
-  - [Github-explorer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
-  - [**Hotel ★4106**](https://github.com/typicode/hotel) start your dev servers from your browser and get local domains in seconds!
-  - [Surfbird ★32](https://github.com/surfbirdapp/surfbird) A Twitter client written with modern web technologies
-  - [Approach0](https://github.com/approach0/search-engine) A math-aware search engine
-  - [**kov-blog 博客平台 ![kov-blog](https://img.shields.io/github/stars/ma63d/kov-blog.svg?style=social&label=Star&maxAge=2592000)**](https://github.com/Ma63d/kov-blog)  A blog and its managemant platform, based on vue, koa, mongoose and more.
-  - [Flox ★100+](https://github.com/devfake/flox) Self Hosted Movie, Series and Anime Watch List
-  - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup>
-  - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) A game for identifying JavaScript tools and libraries.
-  - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog)  A blog based on GitHub pages by Vue.js 2 + Webpack 2.
-  - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo): Vuedo is a blog platform, built with Laravel and Vue.js. **Website using Vuedo in production : https://vuejsfeed.com/**
-  - [vue-music163](https://github.com/pluto1114/vue-music163.git) A Vue.js project for music
-  - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) Tomato5 is a real-time collaboration tool, it combines Pomodoro Technique with a team status share board. We build Tomato5 as the 'Serverless' architecture, powered by Vue.js and Google Firebase.
-  - [Demo of Bureaufast workflow egine](http://www.bigdecimap.com:8080/): An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported. [source](https://github.com/yetaai/bureaufast)
-  - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup>: 魔方
-  - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> A Chrome Extension for tabs management, Search, preview, jump across, and close tabs quickly.
-  - [Web Learn](https://freearhey.github.io/web-learn) <sup>[[Source]](https://github.com/freearhey/web-learn)</sup>: A service which provides simple access to thousands of video tutorials on web developing and programming.
-  - [ExcelJSON](http://exceljson.com) <sup>[[Source]](https://github.com/palerdot/exceljson)</sup>: A tool to convert CSV, TSV to/from JSON.
-  - [Materialize-blog](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
-  - [**leetcode-viewer** ![leetcode-viewer](https://img.shields.io/github/stars/ma63d/leetcode-viewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ma63d/leetcode-viewer) A single page application to show your [leetcode](https://leetcode.com/) solutions，backend-free.
-  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) Generate vue single file component on browser
-  - [SDR News](https://news.superdevresources.com/) <sup>[[Source]](https://github.com/super-dev/SDR-News)</sup> -  News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs)
-  - [**PJ Blog** ![PJ Blog](https://img.shields.io/github/stars/jcc/blog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/blog): PJ Blog is an open source blog built with Laravel and Vue.js by [Jiajian Chan](https://github.com/jcc)
+  - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup> good
+  - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup> deprecated project
+  - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup> good
+  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup> good
+  - [Todolist ★16](https://github.com/Memkits/todolist) last commit in 2014 vue 0.10
+  - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) last commit in 2015 vue 0.12
+  - [a simple notepad ★47](https://github.com/sapjax/fewords) last commit in 2015, no english
+  - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend) last commit in 2015 v1.0 vue 1.0
+  - [Koel](http://koel.phanan.net) <sup>[[Source]](https://github.com/phanan/koel)</sup> good
+  - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> no english
+  - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> no english
+  - [**RSS Reader ★193**](https://github.com/mrgodhani/rss-reader) good
+  - [**Gokotta ★182**](https://github.com/Zhangdroid/Gokotta) (to see)
+  - [Coffeebreak ★53](https://github.com/Kocisov/coffeebreak) (to see) seems abandoned
+  - [BaiduHui: Push Notification - 百度惠：实时推送优惠](https://chrome.google.com/webstore/detail/blcmlhpbpimcnifnkgkfjhhmoolbidik)<sup>[[Source]](https://github.com/DanielZhu/Magnet-baiduhui-chrome-extension)</sup> no english
+  - [CoPilot](http://copilot.mistergf.io/) <sup>[[Source]](https://github.com/misterGF/CoPilot)</sup> good
+  - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> good
+  - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> good
+  - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> good
+  - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> no english
+  - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web) (closer to an example than a project)
+  - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) no english
+  - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> good
+  - [Github-explorer](https://github.com/SidKwok/github-explorer) good
+  - [**Hotel ★4106**](https://github.com/typicode/hotel) good
+  - [Surfbird ★32](https://github.com/surfbirdapp/surfbird) good
+  - [Approach0](https://github.com/approach0/search-engine) good
+  - [**kov-blog 博客平台 ![kov-blog](https://img.shields.io/github/stars/ma63d/kov-blog.svg?style=social&label=Star&maxAge=2592000)**](https://github.com/Ma63d/kov-blog) no english
+  - [Flox ★100+](https://github.com/devfake/flox) good
+  - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup> no description, no english
+  - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) good
+  - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) good
+  - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo) good
+  - [vue-music163](https://github.com/pluto1114/vue-music163.git)
+  - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) good
+  - [Demo of Bureaufast workflow egine](https://github.com/yetaai/bureaufast) good but potentially unmaintained
+  - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup> no description (app/ website category?)
+  - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> good?
+  - [Web Learn](https://freearhey.github.io/web-learn) <sup>[[Source]](https://github.com/freearhey/web-learn)</sup> good
+  - [ExcelJSON](http://exceljson.com) <sup>[[Source]](https://github.com/palerdot/exceljson)</sup> good?
+  - [Materialize-blog](https://github.com/forehalo/materialize-blog) good
+  - [**leetcode-viewer** ![leetcode-viewer](https://img.shields.io/github/stars/ma63d/leetcode-viewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ma63d/leetcode-viewer) no english
+  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) not an active project, description short
+  - [SDR News](https://news.superdevresources.com/) <sup>[[Source]](https://github.com/super-dev/SDR-News)</sup> good
+  - [**PJ Blog** ![PJ Blog](https://img.shields.io/github/stars/jcc/blog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/blog) good
+
 - #### Commercial Products
 
-  - [Wijmo](http://wijmo.com/products/wijmo-5/): A collection of [UI controls with VueJS support](http://demos.wijmo.com/5/Vue/Interop/Interop/).
-    - [FlexGrid for VueJS](http://demos.wijmo.com/5/Vue/FlexGridIntro/FlexGridIntro/) - A high-performance datagrid that is small and extensible with VueJS support.
-    - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) - A full-featured chart control with VueJS support.
-    - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) -  A set of form input controls (AutoComplete, InputDate, InputNumber, InputMask, etc) with VueJS support.
-    - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) -  Linear and radial gauges and a bullet graph with VueJS support.
+  - [Wijmo](http://wijmo.com/products/wijmo-5/) good
+    - [FlexGrid for VueJS](http://demos.wijmo.com/5/Vue/FlexGridIntro/FlexGridIntro/) part of Wijmo - duplicate
+    - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) part of Wijmo - duplicate
+    - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) part of Wijmo - duplicate
+    - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) part of Wijmo - duplicate
 
 - #### Apps/Websites
 
-  - [Laravel Spark](https://spark.laravel.com/)
-  - [Vice Video](https://video.vice.com/)
-  - [Formlets](https://www.formlets.com)
-  - [Laracasts](https://laracasts.com)
-  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/)
-  - [CUUSOO](https://cuusoo.com)
-  - [esa.io](https://esa.io/)
-  - [N1.ru](http://n1.ru)
-  - [稀土掘金](http://gold.xitu.io)
-  - [Prague Airport](http://www.prague-airport.com/)
-  - [Expressionery](https://www.expressionery.com)
-  - [BUYIT](http://bt.workswell.com.au) by @[Workswell Australia](http://workswell.com.au)
-  - [Portfolio Site](http://corentinbac.com/) by Corentin Bac
-  - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
-  - [Grammarly](https://grammarly.com/) mistake-free writing service
-  - [Laravist](https://laravist.com/)
-  - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
-  - [Statamic](https://statamic.com)
-  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey
-  database.
-  - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
-  - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
-  - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
-  - [CheckIt ★0](https://github.com/julesbou/checkit)
-  - [Reddit News ★34](https://github.com/Mati365/reddit-news) A browser extension which show notifications and news from reddit
-  - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
-  - [小桃酱](https://app.xiaotaojiang.com/)
-  - [金哲博客](http://jinzhe.net/)
-  - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
-  - [Zova](https://zova.com/)
-  - [风投侠](https://vcshare.cn/)
-  - [COPA 2016](http://www.ca2016.com/)
-  - [vNotes](https://halfeld.github.io/v-notes/#!/) Simple and beautiful notepad to Markdown with Vue.js and Local Storage API - [repository](https://github.com/Halfeld/v-notes)
-  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles
-  - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
-  - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
+  - [Laravel Spark](https://spark.laravel.com/) good
+  - [Vice Video](https://video.vice.com/) good
+  - [Formlets](https://www.formlets.com) good
+  - [Laracasts](https://laracasts.com) good
+  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/) good
+  - [CUUSOO](https://cuusoo.com) hmm. good but login page
+  - [esa.io](https://esa.io/) good
+  - [N1.ru](http://n1.ru) good (russian)
+  - [稀土掘金](http://gold.xitu.io) good (no english)
+  - [Prague Airport](http://www.prague-airport.com/) good
+  - [Expressionery](https://www.expressionery.com) infinite loading
+  - [BUYIT](http://bt.workswell.com.au) error page
+  - [Portfolio Site](http://corentinbac.com/) good
+  - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en) (no update since 2014)
+  - [Grammarly](https://grammarly.com/) good
+  - [Laravist](https://laravist.com/) good
+  - [Atiiv](https://atiiv.com) good
+  - [Statamic](https://statamic.com) good
+  - [Embalses!](http://embalses.azurewebsites.net/) good
+  - [TravelMap](http://clem.travelmap.fr) good
+  - [movienote.org](http://movienote.org) good
+  - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) good
+  - [CheckIt ★0](https://github.com/julesbou/checkit) not in the right section
+  - [Reddit News ★34](https://github.com/Mati365/reddit-news) not in the right section
+  - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/) good
+  - [小桃酱](https://app.xiaotaojiang.com/) good
+  - [金哲博客](http://jinzhe.net/) good
+  - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) not in the right section
+  - [Zova](https://zova.com/) good
+  - [风投侠](https://vcshare.cn/) infinite loading
+  - [COPA 2016](http://www.ca2016.com/) error
+  - [vNotes](https://halfeld.github.io/v-notes/#!/) not in the right section
+  - [Subordination](http://subordination.cu.cc/) good
+  - [SPA Blog](http://ktquez.com/) good
+  - [WP ERP](https://wordpress.org/plugins/erp/) good
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
-  - [Dermail](https://github.com/zllovesuki/dermail-webmail) A webmail client written in Vue.js for [Dermail, a mail systemn written in node.js](https://zllovesuki.git.sx/essays/2016/02/dermail/)
-  - [octimine](https://www.octimine.com/) A patent search engine
-  - [Draxed](https://www.draxed.com/?utm_source=github&utm_medium=web&utm_campaign=awesome-vue) A web based MySQL and PostgreSQL data browser and dashboard manager
-  - [蜜蜂聚财](http://www.beejc.com/webapp/) A P2P web app for car loans, by [@pciapcib](https://github.com/pciapcib)
-  - [Leapspotleap](http://www.leapspotleap.com) A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
-  - [Bayo](http://bayo.vn) A simple and powerful website for Vietnamese travelers. We revolutionize travel planning and booking in a personalized, fun and productive way.
-  - [X-SONGTAO★11](http://xiangsongtao.com) A Personal blog. FE and CMS are in same vue SPA.
+  - [Dermail](https://github.com/zllovesuki/dermail-webmail) opensource webmail client written in Vue
+  - [octimine](https://www.octimine.com/) good
+  - [Draxed](https://www.draxed.com/) good
+  - [蜜蜂聚财](http://www.beejc.com/webapp/) redirect to http://app.beejc.com
+  - [Leapspotleap](http://www.leapspotleap.com) good
+  - [Bayo](http://bayo.vn) good (no english)
+  - [X-SONGTAO★11](http://xiangsongtao.com) good (no english)
   - [Cinemateka](http://cinema.seance.ru) Film & events schedule SPA made with Vue & Laravel 5. Russian. <sup>[[Source]](https://github.com/Piterden/cinemateka)</sup>
-  - [Jobinja](https://jobinja.ir) A Job Board and career platform operating in Iran.
-  - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
-  - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
-  - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
-  - [Approach0](http://approach0.xyz) A math-aware search engine for math.stackexchange.com
-  - [The Spice House](https://www.thespicehouse.com) Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
-  - [豆瓣 ★198](https://github.com/jiakeqi/douban)
-  - [Livestorm](http://livestorm.co) Webinar / Live events app
-  - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
-  - [Metric Loop](https://metricloop.com) A technology services and solutions website
-  - [Holden](https://www.holden.com.au)
-  - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
-  - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC). [Short Introduction](https://slugsurvival.com/explain/gif)
-  - [LIHKG討論區](https://lihk-forum.firebaseapp.com) Unofficial Web client for LIHKG forum
-  - [FreePoll.Online](https://www.freepoll.online) - A group decision making tool built using Vue.js, [vue-sortable](https://github.com/sagalbot/vue-sortable), [Semantic UI](https://github.com/semantic-org/semantic-ui/) and [Zappa](https://github.com/Miserlou/Zappa).
-  - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app), Track github project's new release on mac menubar using vue.js with electron.
-  - [12BAY.VN](https://12bay.vn) - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
-  - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments
-  - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) - A movie session times app built with Vue.js
+  - [Jobinja](https://jobinja.ir) good no english
+  - [滚蛋吧！莆田系](https://putianxi.github.io/) good no english
+  - [Jobi : Recruiting Platform ](https://www.jobi.tn/) good
+  - [Citymoods](http://citymoods.cc) good
+  - [Approach0](http://approach0.xyz) good
+  - [The Spice House](https://www.thespicehouse.com) good
+  - [豆瓣 ★198](https://github.com/jiakeqi/douban) no website/app
+  - [Livestorm](http://livestorm.co) good
+  - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo) it is an example
+  - [Metric Loop](https://metricloop.com) good
+  - [Holden](https://www.holden.com.au) good
+  - [Global-Exam](https://global-exam.com) good
+  - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) open source project website
+  - [LIHKG討論區](https://lihk-forum.firebaseapp.com) seems good (no english)
+  - [FreePoll.Online](https://www.freepoll.online) good
+  - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app) opensource app
+  - [12BAY.VN](https://12bay.vn) seems good - no english
+  - [PLAYCODE.IO](https://playcode.io) good
+  - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) simplistic but seems good? (part of a project courses)
   - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) - A calendar app built with Vue.js, Vuex and server-side rendering
-  - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio
-  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS &amp; Bitly API
-  - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
+  - [The Void Radio](http://thevoidrad.io) good
+  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) good, simple
+  - [Storyblok](https://www.storyblok.com) good
 
 - #### Interactive Experiences
 
-  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
-  - [Facebook NewsFeed](https://newsfeed.fb.com/)
-  - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
-  - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
-  - [Omnisense Experience](http://omnisense.net) - *Awwwards & FWA SOTD, FWA Cutting Edge. Awwwards SOTM nominee.*
-  - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - by Anonymous *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
-  - [Heineken Star Experience](http://www.starexperience.fr/) - by Anonymous *FWA SOTD.*
-  - [Louis Ansa Website (portfolio)](http://louisansa.com) - *Awwwards SOTD, FWA nominee.*
-  - [Djeco.com](http://www.djeco.com/en)
-  - [Tolks.io](https://tolks.io) - a new way to put stories online.
-  - [Meet Graham](http://www.meetgraham.com.au) - by Clemenger BBDO - [Credits](http://www.campaignbrief.com/2016/07/clemenger-bbdo-melbourne-launc-4.html) - *FWA SOTD, CssDesignAwards WOTD, Awwwards SOTD and Developer Award.*
-  - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
-  - [Jason Bourne : Remember Everything](http://www.remembereverything.com) — by Stinkdigital *Awwwards SOTD, FWA FOTD.*
+  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) good
+  - [Facebook NewsFeed](https://newsfeed.fb.com/) good
+  - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers) good
+  - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) an error occurred
+  - [Omnisense Experience](http://omnisense.net) good
+  - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) ssl error
+  - [Heineken Star Experience](http://www.starexperience.fr/) not available anymore
+  - [Louis Ansa Website (portfolio)](http://louisansa.com) good
+  - [Djeco.com](http://www.djeco.com/en) good
+  - [Tolks.io](https://tolks.io) good
+  - [Meet Graham](http://www.meetgraham.com.au) good
+  - [NOIZE original](http://noizeoriginal.com) good
+  - [Jason Bourne : Remember Everything](http://www.remembereverything.com) not available anymore
 
 - #### Enterprise Usage
 
