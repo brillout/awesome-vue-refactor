@@ -219,7 +219,7 @@
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl) good
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast) no v2
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
-- [**VUX ★6316**](https://github.com/airyland/vux) good (although english doc missing)
+- [**VUX ★6316**](https://github.com/airyland/vux) no english doc
 - [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
 - [vue-comps](https://github.com/vue-comps) duplicate
@@ -304,13 +304,13 @@
 
 - #### Routing
 
-  - [**vue-router ★3,171**](https://github.com/vuejs/vue-router) good
-  - [Vue page ★15](https://github.com/AlexToudic/vue-page) unmaintained
-  - [Vue Lanes ★21](https://github.com/bpierre/vue-lanes) no v2, unmaintained
-  - [Vue route ★73](https://github.com/ayamflow/vue-route) unmaintained
-  - [**voie ★130**](https://github.com/inca/voie) unmaintained
-  - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) good
-  - [vue-update](https://github.com/ZeroDark1991/vue-update) readme doesn't explain enough
+  - [**vue-router ★3,171**](https://github.com/vuejs/vue-router) - Official router for building SPAs. <sup>1.0 compatible</sup>
+  - [Vue page ★15](https://github.com/AlexToudic/vue-page), a routing system based on pagejs by @AlexToudic
+  - [Vue Lanes ★21](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
+  - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
+  - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
+  - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991
 
 - #### Ajax/Data
 
@@ -353,25 +353,25 @@
 
 - #### Validation
 
-  - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) good
-  - [Vue validator ★41](https://github.com/xrado/vue-validator) no v2
-  - [**vue-form ★147**](https://github.com/fergaldoyle/vue-form) no v2
-  - [Vuex Validator ★2](https://github.com/sebastian-software/vuex-validator) no v2
-  - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) doc is lacking, e.g. what is the string `'required,email'` about? Is it an array encoded in a string? Why not having `['required, 'email']` then?
-  - [vue-verify](https://github.com/PeakTai/vue-verify) doc is lacking, has typos and e.g. `Get more information from examples.`.
-  - [vee-validate](https://github.com/logaretm/vee-validate) good
-  - [Vue-Laravel-Validator ★26](https://github.com/MetinSeylan/Vue-Laravel-Validator) no v2
-  - [vue-formly](https://github.com/matt-sanders/vue-formly) good
-  - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) duplicate
-  - [vue-formular](https://github.com/matfish2/vue-formular) duplicate
-  - [Vuerify](https://github.com/QingWei-Li/vuerify) no english docs
-  - [vue-data-validator](https://github.com/phphe/vue-data-validator) readme not in english
-  - [vue-form-2](https://github.com/matfish2/vue-form-2) why having both ui components and form validation into one lib? Why not a lib for each?
-  - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) no v2
-  - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) added value is too small
-  - [vue-contextable](https://github.com/xpepermint/vue-contextable) good
-  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) good
-  - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) good
+  - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>2.0 compatible</sup>
+  - [Vue validator ★41](https://github.com/xrado/vue-validator) by @xrado
+  - [**vue-form ★147**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
+  - [Vuex Validator ★2](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
+  - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
+  - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
+  - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
+  - [Vue-Laravel-Validator ★26](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
+  - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
+  - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
+  - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
+  - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
+  - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
+  - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
+  - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
+  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
+  - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) - Simple, yet flexible solution aimed to support both basic and complex validation scenarios <sup>2.0 compatible</sup>
 
 - #### UI Components
 
@@ -793,26 +793,26 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - #### Open Source
 
   - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup> good
-  - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup> deprecated project
-  - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup> good
-  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup> good
-  - [Todolist ★16](https://github.com/Memkits/todolist) last commit in 2014 vue 0.10
-  - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) last commit in 2015 vue 0.12
-  - [a simple notepad ★47](https://github.com/sapjax/fewords) last commit in 2015, no english
-  - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend) last commit in 2015 v1.0 vue 1.0
+  - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup> deprecated, unmaintained project
+  - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup> good?
+  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup> no description, inactive
+  - [Todolist ★16](https://github.com/Memkits/todolist) inactive, last commit in 2014 vue 0.10, website 404
+  - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) inactive, last commit in 2015 vue 0.12
+  - [a simple notepad ★47](https://github.com/sapjax/fewords) inactive, last commit in 2015, no english
+  - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend) inactive, last commit in 2015, website/app category?
   - [Koel](http://koel.phanan.net) <sup>[[Source]](https://github.com/phanan/koel)</sup> good
   - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> no english
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> no english
   - [**RSS Reader ★193**](https://github.com/mrgodhani/rss-reader) good
-  - [**Gokotta ★182**](https://github.com/Zhangdroid/Gokotta) (to see)
-  - [Coffeebreak ★53](https://github.com/Kocisov/coffeebreak) (to see) seems abandoned
+  - [**Gokotta ★182**](https://github.com/Zhangdroid/Gokotta) nice but inactive
+  - [Coffeebreak ★53](https://github.com/Kocisov/coffeebreak) inactive, website/app category?
   - [BaiduHui: Push Notification - 百度惠：实时推送优惠](https://chrome.google.com/webstore/detail/blcmlhpbpimcnifnkgkfjhhmoolbidik)<sup>[[Source]](https://github.com/DanielZhu/Magnet-baiduhui-chrome-extension)</sup> no english
   - [CoPilot](http://copilot.mistergf.io/) <sup>[[Source]](https://github.com/misterGF/CoPilot)</sup> good
-  - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> good
-  - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> good
+  - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> good, seems inactive, website/app category?
+  - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> seems inactive, cms using vue 1.0
   - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> good
   - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> no english
-  - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web) (closer to an example than a project)
+  - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web) closer to an example than a project, website can not be reached
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) no english
   - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> good
   - [Github-explorer](https://github.com/SidKwok/github-explorer) good
@@ -821,30 +821,30 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Approach0](https://github.com/approach0/search-engine) good
   - [**kov-blog 博客平台 ![kov-blog](https://img.shields.io/github/stars/ma63d/kov-blog.svg?style=social&label=Star&maxAge=2592000)**](https://github.com/Ma63d/kov-blog) no english
   - [Flox ★100+](https://github.com/devfake/flox) good
-  - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup> no description, no english
-  - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) good
+  - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup> no english
+  - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) good, will add link to github
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) good
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo) good
-  - [vue-music163](https://github.com/pluto1114/vue-music163.git)
+  - [vue-music163](https://github.com/pluto1114/vue-music163.git) seems good (app not in english)
   - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) good
-  - [Demo of Bureaufast workflow egine](https://github.com/yetaai/bureaufast) good but potentially unmaintained
-  - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup> no description (app/ website category?)
-  - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> good?
+  - [Demo of Bureaufast workflow egine](https://github.com/yetaai/bureaufast) no description, website not loading, error
+  - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup> no description (app/website category?)
+  - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> good
   - [Web Learn](https://freearhey.github.io/web-learn) <sup>[[Source]](https://github.com/freearhey/web-learn)</sup> good
-  - [ExcelJSON](http://exceljson.com) <sup>[[Source]](https://github.com/palerdot/exceljson)</sup> good?
+  - [ExcelJSON](http://exceljson.com) <sup>[[Source]](https://github.com/palerdot/exceljson)</sup> good
   - [Materialize-blog](https://github.com/forehalo/materialize-blog) good
   - [**leetcode-viewer** ![leetcode-viewer](https://img.shields.io/github/stars/ma63d/leetcode-viewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ma63d/leetcode-viewer) no english
-  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) not an active project, description short
+  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) good
   - [SDR News](https://news.superdevresources.com/) <sup>[[Source]](https://github.com/super-dev/SDR-News)</sup> good
   - [**PJ Blog** ![PJ Blog](https://img.shields.io/github/stars/jcc/blog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/blog) good
 
 - #### Commercial Products
 
   - [Wijmo](http://wijmo.com/products/wijmo-5/) good
-    - [FlexGrid for VueJS](http://demos.wijmo.com/5/Vue/FlexGridIntro/FlexGridIntro/) part of Wijmo - duplicate
-    - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) part of Wijmo - duplicate
-    - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) part of Wijmo - duplicate
-    - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) part of Wijmo - duplicate
+    - [FlexGrid for VueJS](http://demos.wijmo.com/5/Vue/FlexGridIntro/FlexGridIntro/) part of Wijmo
+    - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) part of Wijmo
+    - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) part of Wijmo
+    - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) part of Wijmo
 
 - #### Apps/Websites
 
@@ -853,15 +853,15 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Formlets](https://www.formlets.com) good
   - [Laracasts](https://laracasts.com) good
   - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/) good
-  - [CUUSOO](https://cuusoo.com) hmm. good but login page
+  - [CUUSOO](https://cuusoo.com) seems good
   - [esa.io](https://esa.io/) good
-  - [N1.ru](http://n1.ru) good (russian)
+  - [N1.ru](http://n1.ru) good (no english)
   - [稀土掘金](http://gold.xitu.io) good (no english)
   - [Prague Airport](http://www.prague-airport.com/) good
   - [Expressionery](https://www.expressionery.com) infinite loading
   - [BUYIT](http://bt.workswell.com.au) error page
   - [Portfolio Site](http://corentinbac.com/) good
-  - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en) (no update since 2014)
+  - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en) 2014 android app with vue?
   - [Grammarly](https://grammarly.com/) good
   - [Laravist](https://laravist.com/) good
   - [Atiiv](https://atiiv.com) good
@@ -911,9 +911,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [12BAY.VN](https://12bay.vn) seems good - no english
   - [PLAYCODE.IO](https://playcode.io) good
   - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) simplistic but seems good? (part of a project courses)
-  - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) - A calendar app built with Vue.js, Vuex and server-side rendering
+  - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) good
   - [The Void Radio](http://thevoidrad.io) good
-  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) good, simple
+  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) good, too simple?
   - [Storyblok](https://www.storyblok.com) good
 
 - #### Interactive Experiences
