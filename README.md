@@ -652,22 +652,22 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### Integrations
 
-  - [Vue for Meteor ★90](https://github.com/zhouzhuojie/meteor-vue) by @zhouzhuojie
-  - [ScalaJS bindings for Vue.js ★24](https://github.com/fancellu/scalajs-vue) by @fancellu
-  - [Socketize Backend ★6](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
-  - [Vue-Meteor-Data ★17](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
-  - [Vue-Typed ★7](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
-  - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
-  - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
-  - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
-  - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
-  - [vuets](https://github.com/vuets/vuets): Vue components using typescript 2.0 with compatibility layer between version 1 and 2 of vue and vue-router. By [@dyu](https://github.com/dyu)
-  - [Vue-Feathers](https://github.com/sunabozu/vue-feathers) A seamless integration with Feathers for Vue 1.x and 2.x by @sunabozu
-  - [vue-apollo](https://github.com/Akryum/vue-apollo) Use Apollo and GraphQL in your Vue (1.x and 2.x) components by @Akryum
-  - [av-ts](https://github.com/HerringtonDarkholme/av-ts) ![av-ts](https://img.shields.io/github/stars/HerringtonDarkholme/av-ts.svg?style=social&label=Star&maxAge=2592000) Awesome Vue for TypeScript. A type-safe and concise Vue binding for TypeScript. Having used a lot of techniques, tricks and hacks to achieve idiomatic API.
-  - [Neutronium](https://github.com/David-Desmaisons/Neutronium) ![Neutronium](https://img.shields.io/github/stars/David-Desmaisons/Neutronium.svg?style=social&label=Star&maxAge=2592000) library to create .NET desktop applications using HTML, CSS and javascript. Like Electron for .NET with a powerfull integration with Vue.js.
-  - [vue-threejs](https://github.com/fritx/vue-threejs) ![vue-threejs](https://img.shields.io/github/stars/fritx/vue-threejs.svg?style=social&label=Star&maxAge=2592000) Vue bindings for Three.js
-  - [Framework7-Vue ★113](https://github.com/nolimits4web/Framework7-Vue): Build full featured iOS & Android apps using Framework7 & Vue (http://framework7.io) [@nolimits4web]
+  - [Vue for Meteor ★90](https://github.com/zhouzhuojie/meteor-vue) no v2
+  - [ScalaJS bindings for Vue.js ★24](https://github.com/fancellu/scalajs-vue) no v2, is more an example than a lib
+  - [Socketize Backend ★6](https://github.com/Socketize/vue.js-plugin) no v2
+  - [Vue-Meteor-Data ★17](https://github.com/Grottolabs/vue-meteor-data) no v2
+  - [Vue-Typed ★7](https://github.com/budiadiono/vue-typed) good
+  - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component) good
+  - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript) good
+  - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7) no v2
+  - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector) no v2
+  - [vuets](https://github.com/vuets/vuets) demo should show the source code instead of triggering download
+  - [Vue-Feathers](https://github.com/sunabozu/vue-feathers) added value is too small
+  - [vue-apollo](https://github.com/Akryum/vue-apollo) good
+  - [av-ts](https://github.com/HerringtonDarkholme/av-ts) good
+  - [Neutronium](https://github.com/David-Desmaisons/Neutronium) good
+  - [vue-threejs](https://github.com/fritx/vue-threejs) good
+  - [Framework7-Vue ★113](https://github.com/nolimits4web/Framework7-Vue) duplicate
 
 - #### General Plugins/Directives
 
@@ -767,19 +767,19 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### SEO
 
-  - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
-  - [vue-helmet ★17](https://github.com/miaolz123/vue-helmet) : Like [react-helmet](https://github.com/nfl/react-helmet), a HTML head manager for Vue, edit the page title easily. By [@miaolz123](https://github.com/miaolz123)
-  - [vue-meta ![vue-meta](https://img.shields.io/github/stars/declandewet/vue-meta.svg?style=social&label=Star&maxAge=2592000)](https://github.com/declandewet/vue-meta): Manage page meta info in components. SSR supported. <sup>2.x</sup>
+  - [vue-head ★97](https://github.com/ktquez/vue-head) good
+  - [vue-helmet ★17](https://github.com/miaolz123/vue-helmet) doc indicates that several meta tags are not supported
+  - [vue-meta](https://github.com/declandewet/vue-meta) good
 
 - #### TypeScript
 
-  - [vue-property-decorator ★11](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
-  - [vue-typescript-component ![vue-typescript-component](https://img.shields.io/github/stars/locoslab/vue-typescript-component.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-component): TypeScript classes as Vue.js 2 components
-  - [vue-typescript-import-dts ![vue-typescript-import-dts](https://img.shields.io/github/stars/locoslab/vue-typescript-import-dts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-import-dts): Support `import` of `*.vue` files in TypeScript sources
-  - [vue-typescript-jest ![vue-typescript-jest](https://img.shields.io/github/stars/locoslab/vue-typescript-jest.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-jest): Test Vue.js components and TypeScript sources using Jest
-  - [vue-jest-utils ![vue-jest-utils](https://img.shields.io/github/stars/locoslab/vue-jest-utils.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-jest-utils): Simple snapshot testing of Vue.js components (JavaScript and TypeScript) using Jest and html2jade
-  - [vue-typescript-component-example ![vue-typescript-component-example](https://img.shields.io/github/stars/locoslab/vue-typescript-component-example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-component-example): Example TypeScript/Tsify/Vue.js/Vueify/Pug setup supporting Hot Module Replacement and unit/snapshot testing with Jest
-  - [Testing Vuex with Typescript and WallabyJs](https://github.com/davidmoshal/reactive-vue-typescript-testing) - Boilerplate showing how to test the reactvity of Vue components to Vuex model changes. Vue 1.x, Vue-typescript, Typescript 2.x. Test runner: WallabyJs.
+  - [vue-property-decorator ★11](https://github.com/kaorun343/vue-property-decorator) good
+  - [vue-typescript-component](https://github.com/locoslab/vue-typescript-component) good
+  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts) good
+  - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) good
+  - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils) good
+  - [vue-typescript-component-example](https://github.com/locoslab/vue-typescript-component-example): is not a lib
+  - [Testing Vuex with Typescript and WallabyJs](https://github.com/davidmoshal/reactive-vue-typescript-testing) no v2
 
 - #### Talks
 

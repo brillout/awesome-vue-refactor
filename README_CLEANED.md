@@ -16,7 +16,7 @@
 
 ### Table
 
-*Tables / Data grids*
+*Tables / data grids*
 
  - [vuetable-2](https://github.com/ratiw/vuetable-2)
  - [vue-tables-2](https://github.com/matfish2/vue-tables-2)
@@ -288,6 +288,21 @@ Tooltips / popovers
 
  - [vue-router](https://github.com/vuejs/vue-router)
 
+### Meta tags
+
+*Manage meta information in the document head*
+
+ - [vue-head](https://github.com/ktquez/vue-head)
+ - [vue-meta](https://github.com/declandewet/vue-meta)
+
+###### Typescript
+
+ - [vue-typed](https://github.com/vue-typed/vue-typed)
+ - [vue-typescript](https://github.com/itsFrank/vue-typescript)
+ - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
+ - [vue-typescript-component](https://github.com/locoslab/vue-typescript-component)
+ - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts)
+
 ### Asset Management
 
  - [vue-script2](https://github.com/taoeffect/vue-script2)
@@ -309,6 +324,14 @@ Tooltips / popovers
  - [vue-ua](https://github.com/ScreamZ/vue-analytics)
  - [vue-youtube-embed](https://github.com/kaorun343/vue-youtube-embed)
  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar)
+ - [meteor-vue-component](https://github.com/Akryum/vue-meteor)
+ - [vue-apollo](https://github.com/Akryum/vue-apollo)
+ - [av-ts](https://github.com/HerringtonDarkholme/av-ts)
+ - [Neutronium](https://github.com/NeutroniumCore/Neutronium)
+ - [vue-threejs](https://github.com/fritx/vue-threejs)
+ - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest)
+ - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils)
+
 
 
 
