@@ -219,7 +219,7 @@
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl) good
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast) no v2
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
-- [**VUX ★6316**](https://github.com/airyland/vux) no english doc
+- [**VUX ★6316**](https://github.com/airyland/vux) good (no english doc but very popular)
 - [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
 - [vue-comps](https://github.com/vue-comps) duplicate
@@ -506,12 +506,12 @@
   - [vue-places](https://github.com/Gomah/vue-places) good (altough added value is small)
   - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) good
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts) good (although it'd be good to add a link to the source code for each snippet in the live demo)
-  - [vue-audio ★9](https://github.com/shershen08/vuejs-sound-player) good (although it's specific)
+  - [vue-audio ★9](https://github.com/shershen08/vuejs-sound-player) too specific
   - [tinymce-vue-2](https://github.com/mbouclas/tinymce-vue-2) added value too small
   - [v-qrcode](https://github.com/atwxp/v-qrcode) added value too small, should state that it's based on https://github.com/atwxp/v-qrcode
   - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git) live demo seems to be buggy
   - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) readme doesn't explain what the lib does
-  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) good
+  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) should state that it supports v2 (otherwise good)
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) good
   - [vue-masked-input](https://niksmr.github.io/vue-masked-input/) good
   - [vue-droppler](https://github.com/joearcher/vue-droppler) added vaue too small
@@ -671,99 +671,98 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### General Plugins/Directives
 
-  - [vue-element ★82](https://github.com/vuejs/vue-element): Register real custom elements with Vue.
-  - [**vue-touch ★355**](https://github.com/vuejs/vue-touch): Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
-  - [**vue-animated-list ★186**](https://github.com/vuejs/vue-animated-list): A Vue.js plugin for easily animating `v-for` rendered lists.
-  - [Vue placeholder directives ★51](https://github.com/lithiumjake/vue-placeholders) by @lithiumjake
-  - [Vue in viewport detection directive ★33](https://github.com/holic/vue-viewport) by @holic
-  - [Vue once directive ★10](https://github.com/kewah/vue-once) by @kewah
-  - [Vue Modified Directive ★10](https://github.com/KyleRoss/vue-modified) by @KyleRoss
-  - [Maintain scroll position on page changes ★22](https://github.com/mark-hahn/vue-keep-scroll) by @mark-hahn
-  - [vue-titlecase ★11](https://github.com/Haixing-Hu/vue-titlecase): A plugin providing a global filter and an instance method used to titlecase (different from capitalize) strings. By @Haixing-Hu
-  - [vue-format ★11](https://github.com/Haixing-Hu/vue-format): A plugin providing a global filter and an instance method used to format messages with arguments.  By @Haixing-Hu
-  - [vue-clickaway ★51](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
-  - [vue-focus ★37](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
-  - [vue-transfer-dom ★30](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
-  - [**vue-lazyload ★355**](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw <sup>Vue.js 1.x & 2.0 </sup>
-  - [v-touch ★5](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
-  - [vue-mixins ★16](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
-  - [vue-filters ★3](https://github.com/paulpflug/vue-filters) A collection of filters
-  - [vue-round-filter ★0](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
-  - [vue-paginate ★65](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
-  - [vue-super ★7](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
-  - [vue-deepstream ★9](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
-  - [vue-plain ★1](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
-  - [vue-calc-input ★3](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-move-dom ★1](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-animate ★39](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
-  - [vue2-animate ★18](https://github.com/asika32764/vue2-animate): A fork of vue-animate to support Vue.js 2.0. By [@asika32764](https://github.com/asika32764)
-  - [vue-sortable ★76](https://github.com/sagalbot/vue-sortable): A lightweight directive for reorderable drag-and-drop lists using [RubaXa/Sortable](https://github.com/RubaXa/Sortable). By [@sagalbot](https://github.com/sagalbot)
-  - [vue-loading ★35](https://github.com/Coffcer/vue-loading): Vue directive, show loading block in any element. By [@coffcer](https://github.com/Coffcer)
-  - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
-  - [vue-lazyload-img ★49](https://github.com/JALBAA/vue-lazyload-img) another image lazyload plugin for Vue, especially optimized for mobile browser. By [@JALBAA](https://github.com/JALBAA)
-  - [**vue-socket.io ★276**](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs and Vuex. manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
-  - [vue-clipboard ★32](https://github.com/xiaokaike/vue-clipboard)
-  - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
-  - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-toast-mobile ★28](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-indicator ★9](https://github.com/mint-
-  /mint-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-msgbox ★46](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-scroll ★12](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
-  - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
-  - [vue-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor): MediumEditor directive / plugin for Vue 1 and 2.  [@franzskuffka](https://github.com/franzskuffka)
-  - [vue-medium.js ★7](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
-  - [**vue-electron ★46**](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
-  - [vue-router-transition ★16](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
-  - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize): A simple Vue.js directive to autosize text input fields.
-  - [vue-sticky-scroll](https://github.com/heatherbooker/vue-sticky-scroll): keep an element always scrolled to the bottom.
-  - [vue-events ★40](https://github.com/cklmercer/vue-events) by @cklmercer - A Vue plugin that simplifies event handling.
-  - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to truncate string.
-  - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to print a list of tag from array.
-  - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
-  - [vue-drag-and-drop-list](https://github.com/Alex-fun/vue-drag-and-drop-list): Vue directives for modifying lists with the HTML5 drag & drop API.
-  - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
-  - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) a localStorage plugin with types support
-  - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
-  - [v-media-query](https://github.com/AStaroverov/v-media-query): Plugin adds methods for work with media query
-  - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue): Vue Directive for masking input of phones, email, etc
-  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap.
-  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) Vue 2.0 version of the `v-pagination` plugin
-  - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) Integration from socketcluster to vue.
-  - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
-  - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
-  - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
-  - [vue-froala ★1](https://github.com/helpbase/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
-  - [vue-echo](https://github.com/happyDemon/vue-echo): Vue integration for the Laravel Echo library.
-  - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
-  - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
-  - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
-  - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
-  - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging): A sortable list directive with Vue.js by [@hilongjw](https://github.com/hilongjw) <sup>1.x & 2.x </sup>
-  - [vue-finger](https://github.com/shhdgit/vue-finger): AlloyFinger wrapper for Vue2. [@shhdgit](https://github.com/shhdgit)
-  - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) Jalaali Moment.js filters for your Vue.js project. [@saman](https://github.com/saman)
-  - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) A collection of standard filters Vue 1.* adapted for use in Vue 2.*
-  - [vue-collision](https://github.com/scaccogatto/vue-collision): fires a @collided[-groupName] event on collision with viewport or any other bounding box, WayPoints-like
-  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) Fire an event on a specific scroll position
-  - [**vue-lazy-background-images [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-lazy-background-images.svg?style=social&label=Star)](https://github.com/darrynten/vue-lazy-background-images)**](https://github.com/darrynten/vue-lazy-background-images): Simple lazy background images (only background images) for Vue.JS 2+
-  - [@skyrpex/now](https://github.com/skyrpex/now) Mixin that adds a reactive variable that is the current time (uses moment.js).
-  - [vue-localstorage](https://github.com/Radyushin/vue-localstorage): Wrapper for work with the Storage interface of the Web Storage API.
-  - [@kashio/vue-tooltip](https://github.com/Kashio/vue-tooltip) Vue.js tooltip directive.Vue.js tooltip directive.
-  - [Vue.ImagesLoaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded): Vue.js(2.x) directive to detect image loading on children element. Based on [ImagesLoaded](http://imagesloaded.desandro.com/).
-  - [Vue.resize](https://github.com/David-Desmaisons/Vue.resize): Vue.js(2.x) directive to detect resize events with deboucing and throttling capacity. Based on [css-element-queries](https://github.com/marcj/css-element-queries).
-  - [Content Builder](https://github.com/abdullah/plekan) Agile and scalable content builder for Vue.js 2.x
-  - [Turkish Deasciifier](https://github.com/abdullah/vue-turkish-textarea) Corrects spelling errors of Turkish.
-  - [scroll progress for vue.js](https://github.com/shershen08/vuejs-content-scroll-progress) Plugin to display a progress bar of how much content is scrolled through
-  - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) An escape hatch for DOM Nodes, e.g. append to `document.body`.
-  - [vue-count](https://github.com/Monine/vue-count) a plugin of count for Vue.js
-  - [vuexer](https://github.com/LancerComet/vuexer) A Vue 1.0 plugin that simplifies vuex handling. It's useful when your components are used in different vue projects. By [@lancercomet](https://github.com/lancercomet)
-  - [vue-default-value](https://github.com/termosa/vue-default-value) A Vue.js Directive to set a default value for editable elements with no affect to the model state.
-  - [vue-scrollTo](https://github.com/rigor789/vue-scrollTo) A Vue.js directive that can scroll to elements on the page (with offest and easing, no jQuery required)
-  - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
-  - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll): keep element scrolled to the bottom (for Vuejs 2)
-  - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show given elements with the Bootstrap 4 / 3 or self defined breakpoints.
-  - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
-  - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
+  - [vue-element ★82](https://github.com/vuejs/vue-element) good (https://github.com/karol-f/vue-custom-element)
+  - [**vue-touch ★355**](https://github.com/vuejs/vue-touch) no v2
+  - [**vue-animated-list ★186**](https://github.com/vuejs/vue-animated-list) no v2
+  - [Vue placeholder directives ★51](https://github.com/lithiumjake/vue-placeholders) no v2
+  - [Vue in viewport detection directive ★33](https://github.com/holic/vue-viewport) no v2
+  - [Vue once directive ★10](https://github.com/kewah/vue-once) no v2
+  - [Vue Modified Directive ★10](https://github.com/KyleRoss/vue-modified) no v2
+  - [Maintain scroll position on page changes ★22](https://github.com/mark-hahn/vue-keep-scroll) no v2
+  - [vue-titlecase ★11](https://github.com/Haixing-Hu/vue-titlecase) no v2
+  - [vue-format ★11](https://github.com/Haixing-Hu/vue-format) no v2
+  - [vue-clickaway ★51](https://github.com/simplesmiler/vue-clickaway) good
+  - [vue-focus ★37](https://github.com/simplesmiler/vue-focus) good
+  - [vue-transfer-dom ★30](https://github.com/rhyzx/vue-transfer-dom) no v2
+  - [**vue-lazyload ★355**](https://github.com/hilongjw/vue-lazyload) good
+  - [v-touch ★5](https://github.com/didierfranc/v-touch) no v2
+  - [vue-mixins ★16](https://github.com/paulpflug/vue-mixins) no v2
+  - [vue-filters ★3](https://github.com/paulpflug/vue-filters) no v2
+  - [vue-round-filter ★0](https://github.com/rascada/vue-round-filter) no v2
+  - [vue-paginate ★65](https://github.com/TahaSh/vue-paginate) good
+  - [vue-super ★7](https://github.com/rpkilby/vue-super) no v2
+  - [vue-deepstream ★9](https://github.com/arexio/vue-deepstream) no v2
+  - [vue-plain ★1](https://github.com/Coffcer/vue-plain) no v2
+  - [vue-calc-input ★3](https://github.com/BosNaufal/vue-calc-input) no v2
+  - [vue-move-dom ★1](https://github.com/BosNaufal/vue-move-dom) no v2
+  - [vue-animate ★39](https://github.com/haydenbbickerton/vue-animate) no v2
+  - [vue2-animate ★18](https://github.com/asika32764/vue2-animate) good
+  - [vue-sortable ★76](https://github.com/sagalbot/vue-sortable) no v2
+  - [vue-loading ★35](https://github.com/Coffcer/vue-loading) no v2
+  - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture) no v2
+  - [vue-lazyload-img ★49](https://github.com/JALBAA/vue-lazyload-img) no v2
+  - [**vue-socket.io ★276**](https://github.com/MetinSeylan/Vue-Socket.io) good
+  - [vue-clipboard ★32](https://github.com/xiaokaike/vue-clipboard) no v2
+  - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula) good
+  - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll) good
+  - [vue-toast-mobile ★28](https://github.com/ElemeFE/vue-toast-mobile) no demo
+  - [vue-indicator ★9](https://github.com/mint-/mint-indicator) 404
+  - [vue-msgbox ★46](https://github.com/ElemeFE/vue-msgbox) no demo
+  - [vue-scroll ★12](https://github.com/suguangwen/vue-scroll) readme not in english
+  - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside) doesn't mention if it works with v2
+  - [vue-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) good
+  - [vue-medium.js ★7](https://github.com/FranzSkuffka/vue-medium.js) doesn't mention if it works with v2, npm package missing
+  - [**vue-electron ★46**](https://github.com/SimulatedGREG/vue-electron) doesn't mention if it works with v2
+  - [vue-router-transition ★16](https://github.com/weinot/vue-router-transition) deprecated
+  - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize) no v2
+  - [vue-sticky-scroll](https://github.com/heatherbooker/vue-sticky-scroll) good (https://github.com/theomessin/vue-chat-scroll)
+  - [vue-events ★40](https://github.com/cklmercer/vue-events) good
+  - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) added value too small
+  - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) not sure what it does
+  - [vue-cordova ★3](https://github.com/kartsims/vue-cordova) good
+  - [vue-drag-and-drop-list](https://github.com/Alex-fun/vue-drag-and-drop-list) no v2
+  - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) readme not in english
+  - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) should explicitly state support for v2 (vuejs2 GitHub tag is not visible enough)
+  - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component) no v2
+  - [v-media-query](https://github.com/AStaroverov/v-media-query) doesn't state support for v2
+  - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue) good (although it should explicitly state that v2 is support)
+  - [v-pagination] (https://github.com/matfish2/vue-pagination) no v2
+  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) good
+  - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) no v2
+  - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) no english doc
+  - [vue-dropload](https://github.com/yodfz/m-dropload) readme not in english
+  - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) good
+  - [vue-froala ★1](https://github.com/helpbase/vue-froala) good
+  - [vue-echo](https://github.com/happyDemon/vue-echo) doesn't mention v2 support
+  - [vue-types ★2](https://github.com/dwightjack/vue-types) good
+  - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) doesn't explicitly state v2 support
+  - [lazy-vue](https://github.com/gocanto/lazy-vue) doesn't explicitly state v2 support
+  - [vue-websocket](https://github.com/icebob/vue-websocket) good
+  - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging) good
+  - [vue-finger](https://github.com/shhdgit/vue-finger) deprecated
+  - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) good
+  - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) good
+  - [vue-collision](https://github.com/scaccogatto/vue-collision) doesn't explicitly state v2 support
+  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) good
+  - [**vue-lazy-background-images](https://github.com/darrynten/vue-lazy-background-images) good
+  - [@skyrpex/now](https://github.com/skyrpex/now) added value too small
+  - [vue-localstorage](https://github.com/Radyushin/vue-localstorage) doesn't explicitly state v2 support
+  - [@kashio/vue-tooltip](https://github.com/Kashio/vue-tooltip) no demo
+  - [Vue.ImagesLoaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) good
+  - [Vue.resize](https://github.com/David-Desmaisons/Vue.resize) good
+  - [Content Builder](https://github.com/abdullah/plekan) not sure what this is about
+  - [Turkish Deasciifier](https://github.com/abdullah/vue-turkish-textarea) readme not in english
+  - [scroll progress for vue.js](https://github.com/shershen08/vuejs-content-scroll-progress) doesn't state v2 support
+  - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) good
+  - [vue-count](https://github.com/Monine/vue-count) not sure what this is about
+  - [vuexer](https://github.com/LancerComet/vuexer) no v2
+  - [vue-default-value](https://github.com/termosa/vue-default-value) doesn't state v2 support
+  - [vue-scrollTo](https://github.com/rigor789/vue-scrollTo) good
+  - [vue-factory](https://github.com/ye-will/vue-factory) good
+  - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll) duplicate
+  - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) no npm package (otherwise good)
+  - [awesome-mask ★24](https://github.com/moip/awesome-mask) should state that v2 is supported (otherwise good)
+  - [storyblok-vue](https://github.com/storyblok/storyblok-vue) readme is lacking info
 
 - #### SEO
 

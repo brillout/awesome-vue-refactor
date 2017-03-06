@@ -90,6 +90,7 @@ Tooltips / popovers
 *Display time / date / age*
 
  - [vue-timeago](https://github.com/egoist/vue-timeago)
+ - [vue-moment-jalaali](https://github.com/saman/vue-moment-jalaali)
 
 ### Calendar
 
@@ -110,6 +111,7 @@ Tooltips / popovers
 
  - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading)
  - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll)
+ - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll)
 
 ### Markdown
 
@@ -153,6 +155,8 @@ Tooltips / popovers
 ###### Drag and Drop
 
  - [vuedraggable](https://github.com/SortableJS/Vue.Draggable)
+ - [vue-dragula](https://github.com/Astray-git/vue-dragula)
+ - [awe-dnd](https://github.com/hilongjw/vue-dragging)
 
 ###### Autocomplete
 
@@ -180,11 +184,14 @@ Tooltips / popovers
 ###### Masked Input
 
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input)
+- [vue-text-mask](https://github.com/text-mask/text-mask)
 
 ###### Rich Text Editing
 
  - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
  - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor)
+ - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor)
+ - [vue-froala](https://github.com/helpbase/vue-froala)
 
 ###### Image Manipulation
 
@@ -202,7 +209,6 @@ Tooltips / popovers
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps)
  - [vuep](https://github.com/QingWei-Li/vuep)
  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter)
- - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate)
 
 
 
@@ -254,6 +260,7 @@ Tooltips / popovers
  - [vueisotope](https://github.com/David-Desmaisons/Vue.Isotope)
  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
  - [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone)
+ - [vue-masonry](https://github.com/shershen08/vue-masonry)
 
 
 
@@ -261,7 +268,7 @@ Tooltips / popovers
 
 
 
-## Utilities
+## UI Utilities
 
 ### Event Handling
 
@@ -270,6 +277,9 @@ Tooltips / popovers
  - [vue-shortkey](https://github.com/iFgR/vue-shortkey)
  - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event)
  - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint)
+ - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway)
+ - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire)
+ - [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize)
 
 ### Viewport
 
@@ -284,9 +294,34 @@ Tooltips / popovers
  - [vuelidate](https://github.com/monterail/vuelidate)
  - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator)
 
+### Form Inputs
+
+ - [vue-focus](https://github.com/simplesmiler/vue-focus)
+
+### Scroll
+
+*Set window scroll position*
+
+ - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll)
+ - [vue-scrollto](https://github.com/rigor789/vue-scrollTo)
+
 ### Routing
 
  - [vue-router](https://github.com/vuejs/vue-router)
+
+### Lazy load
+
+ - [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
+ - [vue-lazy-background-images](https://github.com/darrynten/vue-lazy-background-images)
+
+### Pagination
+
+ - [vue-paginate](https://github.com/TahaSh/vue-paginate)
+ - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2)
+
+### Animation
+
+ - [vue2-animate](https://github.com/asika32764/vue2-animate)
 
 ### Meta tags
 
@@ -295,7 +330,31 @@ Tooltips / popovers
  - [vue-head](https://github.com/ktquez/vue-head)
  - [vue-meta](https://github.com/declandewet/vue-meta)
 
-###### Typescript
+### Portal
+
+*Move a DOM node to a target DOM node*
+
+ - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal)
+
+### Filters
+
+ - [vue2-filters](https://github.com/freearhey/vue2-filters)
+
+### Miscellaneous
+
+ - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor)
+ - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded)
+
+
+
+
+
+
+
+
+## Code Utilities
+
+### Typescript
 
  - [vue-typed](https://github.com/vue-typed/vue-typed)
  - [vue-typescript](https://github.com/itsFrank/vue-typescript)
@@ -303,13 +362,28 @@ Tooltips / popovers
  - [vue-typescript-component](https://github.com/locoslab/vue-typescript-component)
  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts)
 
+### Custom events
+
+ - [vue-events](https://github.com/cklmercer/vue-events)
+
+### Persistence
+
+*LocalStorage etc.*
+
+ - [vue-reactive-storage](https://github.com/ropbla9/vue-reactive-storage)
+
 ### Asset Management
 
  - [vue-script2](https://github.com/taoeffect/vue-script2)
 
-### Miscellaneous
+### Code Style
 
- - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor)
+*Improve readability of code*
+
+ - [vue-types](https://github.com/dwightjack/vue-types)
+ - [vue-factory](https://github.com/ye-will/vue-factory)
+
+
 
 
 
@@ -331,6 +405,10 @@ Tooltips / popovers
  - [vue-threejs](https://github.com/fritx/vue-threejs)
  - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest)
  - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils)
+ - [vue-custom-element](https://github.com/karol-f/vue-custom-element)
+ - [vue-socket.io](https://github.com/MetinSeylan/Vue-Socket.io)
+ - [vue-cordova](https://github.com/kartsims/vue-cordova)
+ - [vue-websocket](https://github.com/icebob/vue-websocket)
 
 
 
@@ -347,6 +425,10 @@ Tooltips / popovers
 
 
 
+
+
+
+
 ## Dev Tools
 
 ### Source Code Editing
@@ -357,6 +439,9 @@ Tooltips / popovers
 
  - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete)
  - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)
+
+
+
 
 
 
