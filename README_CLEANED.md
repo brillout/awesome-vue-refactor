@@ -362,6 +362,15 @@ Tooltips / popovers
  - [vue-typescript-component](https://github.com/locoslab/vue-typescript-component)
  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts)
 
+### HTTP requests
+
+*Retrieve data over HTTP*
+
+ - [vue-resource](https://github.com/pagekit/vue-resource)
+ - [vue-async-computed](https://github.com/foxbenjaminfox/vue-async-computed)
+ - [vue-jsonp](https://github.com/LancerComet/vue-jsonp)
+ - [v-model](https://github.com/huanleguang/v-model)
+
 ### Custom events
 
  - [vue-events](https://github.com/cklmercer/vue-events)
@@ -372,16 +381,16 @@ Tooltips / popovers
 
  - [vue-reactive-storage](https://github.com/ropbla9/vue-reactive-storage)
 
-### Asset Management
-
- - [vue-script2](https://github.com/taoeffect/vue-script2)
-
 ### Code Style
 
 *Improve readability of code*
 
  - [vue-types](https://github.com/dwightjack/vue-types)
  - [vue-factory](https://github.com/ye-will/vue-factory)
+
+### Asset Management
+
+ - [vue-script2](https://github.com/taoeffect/vue-script2)
 
 
 
@@ -409,6 +418,7 @@ Tooltips / popovers
  - [vue-socket.io](https://github.com/MetinSeylan/Vue-Socket.io)
  - [vue-cordova](https://github.com/kartsims/vue-cordova)
  - [vue-websocket](https://github.com/icebob/vue-websocket)
+ - [vue-wamp](https://github.com/lajosbencz/vue-wamp)
 
 
 

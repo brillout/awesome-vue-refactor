@@ -314,21 +314,21 @@
 
 - #### Ajax/Data
 
-  - [**vue-resource ★1,761**](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
-  - [vue-resource-case-converter](https://github.com/staskjs/vue-resource-case-converter) - Interceptor for `vue-resource` that transforms request data to snake_case and response data to camelCase
-  - [**vue-async-data ★240**](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
-  - [vue-async-computed ★23](https://github.com/foxbenjaminfox/vue-async-computed) - Plugin to support computed properties that are calculated asynchronously. By [@foxbenjaminfox](https://github.com/foxbenjaminfox)
-  - [vue-model ★63](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
-  - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) - Form helpers for your Laravel backed Vue.js projects.
-  - [vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-  - [vue-jsonp ★10](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
-  - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - A mixin that allows syncing props to local attributes automatically, by [@skyrpex].
-  - [v-model ★5](https://github.com/laoshu133/v-model) - V-Model is a model plugin for Vue.js, like ng-resource, by [@laoshu133](https://github.com/laoshu133)
-  - [vue-reload-route-data](https://github.com/imcvampire/vue-reload-route-data) - Give you a ability to reload route data by @imcvampire.
-  - [vue-resource-mock](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's inteceptor.
-  - [vue-remote](https://github.com/MacArthurJustin/vue-remote) - A websocket based remote event system for ease of building dynamic applications, based on Vue's event system.
-  - [vue-instagram](https://github.com/kevinongko/vue-instagram) - Vue 2.0 Fetch Instagram's feeds component. By [@kevinongko](https://github.com/kevinongko).
-  - [vue-wamp](https://github.com/lajosbencz/vue-wamp) - AutobahnJS wrapper served as a plugin. By [@lajosbencz](https://github.com/lajosbencz)
+  - [**vue-resource ★1,761**](https://github.com/vuejs/vue-resource) good
+  - [vue-resource-case-converter](https://github.com/staskjs/vue-resource-case-converter) added value too small
+  - [**vue-async-data ★240**](https://github.com/vuejs/vue-async-data) no v2
+  - [vue-async-computed ★23](https://github.com/foxbenjaminfox/vue-async-computed) good
+  - [vue-model ★63](https://github.com/aarondfrancis/vue-model) no v2
+  - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) no v2
+  - [vue-axios](https://github.com/imcvampire/vue-axios) added value too small, doesn't state v2 support
+  - [vue-jsonp ★10](https://github.com/LancerComet/vue-jsonp) good (although it should state v2 support)
+  - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) doesn't state v2 support
+  - [v-model ★5](https://github.com/laoshu133/v-model) good
+  - [vue-reload-route-data](https://github.com/imcvampire/vue-reload-route-data) readme is lacking
+  - [vue-resource-mock](https://github.com/noru/vue-resource-mock) doesn't state v2 support (otherwise good)
+  - [vue-remote](https://github.com/MacArthurJustin/vue-remote) not sure what the added value is
+  - [vue-instagram](https://github.com/kevinongko/vue-instagram) should say that it supports v2
+  - [vue-wamp](https://github.com/lajosbencz/vue-wamp) good (although it should state v2 support)
 
 - #### State Management
 
