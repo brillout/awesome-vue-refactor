@@ -208,6 +208,7 @@ Tooltips / popovers
 
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps)
  - [vuep](https://github.com/QingWei-Li/vuep)
+ - [vue-places](https://github.com/Gomah/vue-places)
  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter)
 
 

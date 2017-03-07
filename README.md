@@ -221,7 +221,7 @@
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion) duplicate
 - [**VUX ★6316**](https://github.com/airyland/vux) good (no english doc but very popular)
 - [Vue Material Components](http://appcomponents.org/material-components/) no v2 (https://github.com/appcomponents/material-components/issues/44)
-- [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) good
+- [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/) no live demo
 - [vue-comps](https://github.com/vue-comps) duplicate
   - [vue-materialize ★66](https://github.com/paulpflug/vue-materialize) no v2
   - [vue-clusterize ★28](https://github.com/vue-comps/vue-clusterize) no v2
