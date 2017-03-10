@@ -218,7 +218,7 @@ Tooltips / popovers
 
 
 
-## UI Frameworks
+## Frameworks
 
 ### Responsive
 
@@ -230,11 +230,15 @@ Tooltips / popovers
 
 ### Mobile
 
+*UI frameworks for mobile*
+
  - [framework7-vue](https://github.com/nolimits4web/Framework7)
- - [vue-onsenui](https://github.com/OnsenUI/OnsenUI)
  - [vux](https://github.com/airyland/vux)
+ - [vue-onsenui](https://github.com/OnsenUI/OnsenUI)
 
 ### Component Collections
+
+*Set of components without layout system*
 
  - [vue-mdl](https://github.com/posva/vue-mdl)
  - [keen-ui](https://github.com/JosephusPaye/Keen-UI)
@@ -245,7 +249,18 @@ Tooltips / popovers
 
 ###### Mobile
 
+*Set of components for mobile*
+
  - [mint-ui](https://github.com/ElemeFE/mint-ui)
+
+### Other
+
+ - [nuxt](https://github.com/nuxt/nuxt.js)
+ - [app-framework](https://github.com/scriptPilot/app-framework)
+
+
+
+
 
 
 
@@ -282,7 +297,7 @@ Tooltips / popovers
  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire)
  - [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize)
 
-### Viewport
+### Responsive design
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports)
 
@@ -362,6 +377,7 @@ Tooltips / popovers
  - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
  - [vue-typescript-component](https://github.com/locoslab/vue-typescript-component)
  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts)
+ - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader)
 
 ### HTTP requests
 
@@ -372,15 +388,42 @@ Tooltips / popovers
  - [vue-jsonp](https://github.com/LancerComet/vue-jsonp)
  - [v-model](https://github.com/huanleguang/v-model)
 
+### i18n
+
+*Internationalization / L10n / localization / translation*
+
+ - [vue-i18n](https://github.com/kazupon/vue-i18n)
+ - [vue-translate-plugin](https://github.com/javisperez/vuetranslate)
+ - [vuex-i18n](https://github.com/dkfbasel/vuex-i18n)
+ - [vue-gettext](https://github.com/Polyconseil/vue-gettext)
+
 ### Custom events
 
  - [vue-events](https://github.com/cklmercer/vue-events)
+ - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler)
 
 ### Persistence
 
 *LocalStorage etc.*
 
  - [vue-reactive-storage](https://github.com/ropbla9/vue-reactive-storage)
+ - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage)
+
+### State Management
+
+ - [vuex](https://github.com/vuejs/vuex)
+ - [revue](https://github.com/revue/revue)
+ - [vue-sync](https://github.com/buhrmi/vue-sync)
+
+### Vuex Utilities
+
+ - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
+ - [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin)
+
+#### Sync between tabs
+
+ - [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
+ - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations)
 
 ### Code Style
 
@@ -388,10 +431,18 @@ Tooltips / popovers
 
  - [vue-types](https://github.com/dwightjack/vue-types)
  - [vue-factory](https://github.com/ye-will/vue-factory)
+ - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
 
 ### Asset Management
 
+*Utilities for building / compiling / bundling / loading assets*
+
  - [vue-script2](https://github.com/taoeffect/vue-script2)
+ - [vue-loader](https://github.com/vuejs/vue-loader)
+ - [vueify](https://github.com/vuejs/vueify)
+ - [vue-compiler](https://github.com/paulpflug/vue-compiler)
+ - [vue-brunch](https://github.com/nblackburn/vue-brunch)
+ - [vbuild](https://github.com/egoist/vbuild)
 
 
 
@@ -420,7 +471,78 @@ Tooltips / popovers
  - [vue-cordova](https://github.com/kartsims/vue-cordova)
  - [vue-websocket](https://github.com/icebob/vue-websocket)
  - [vue-wamp](https://github.com/lajosbencz/vue-wamp)
+ - [express-vue](https://github.com/danmademe/express-vue)
 
+
+
+
+
+
+
+
+## Dev Tools
+
+ - [vue-dev-server](https://github.com/paulpflug/vue-dev-server)
+
+### Inspect
+
+*Inspecting & debugging*
+
+ - [Vue.js devtools](https://github.com/vuejs/vue-devtools)
+ - [DejaVue](https://github.com/MiCottOn/DejaVue)
+
+### Docs
+
+*Create documentation*
+
+ - [vue-markdown-loader](https://github.com/QingWei-Li/vue-markdown-loader)
+ - [vue-play](https://github.com/vue-play/vue-play)
+ - [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator)
+
+### Test
+
+ - [vuegister](https://github.com/iatsiuk/vuegister)
+
+### Source Code Editing
+
+*Text editor plugins*
+
+###### Atom
+
+ - [language-vue@atom.io](https://github.com/hedefalk/atom-vue)
+ - [language-vue-component@atom.io](https://github.com/CYBAI/language-vue-component)
+ - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete)
+ - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)
+ - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile)
+
+###### Sublime Text
+
+ - [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
+
+###### Vim
+
+ - [Vim Vue](https://github.com/posva/vim-vue)
+
+###### Visual Studio
+
+ - [Vscode Vue](https://github.com/LiuJi-Jim/vscode-vue)
+ - [Vue.js Pack](https://github.com/madskristensen/VuePack)
+
+###### Brackets
+
+ - [Brackets Vue](https://github.com/pandao/brackets-vue)
+
+###### Intellij
+
+ - [Vue.js Plugin](https://github.com/postalservice14/vuejs-plugin)
+
+###### Emacs
+
+ - [Vue Mode](https://github.com/CodeFalling/vue-mode)
+
+###### Kate
+
+ - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files)
 
 
 
@@ -432,24 +554,34 @@ Tooltips / popovers
 
 *Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
 
- - TODO; Fill me
+ - [vue-cli](https://github.com/vuejs/vue-cli)
 
+### Client
 
+*Render Vue application in the browser*
 
+ - [Vue Plugin Boilerplate](https://github.com/kazupon/vue-plugin-boilerplate)
+ - [Bourgeon](https://github.com/rayfranco/bourgeon)
+ - [VuePack](https://github.com/egoist/vuepack)
+ - [Vue Settler](https://github.com/weavingbird/vue-settler)
 
+### Universal
 
+*Render Vue application both to HTML on the server and to DOM in the browser*
 
+ - [SPA Starter Kit](https://github.com/codecasts/spa-starter-kit)
+ - [SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate)
 
-## Dev Tools
+### Server
 
-### Source Code Editing
+*Includes a backend boilerplate*
 
-*Text editor plugins*
+ - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme)
 
-###### Atom
+### Electron
 
- - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete)
- - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)
+ - [Electron Vue](https://github.com/SimulatedGREG/electron-vue)
+ - [VuePack](https://github.com/egoist/vuepack)
 
 
 
