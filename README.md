@@ -189,18 +189,18 @@
 - [vuegister](https://github.com/iatsiuk/vuegister) good (should state v2 support though)
 - [App Framework](https://github.com/scriptPilot/app-framework) good
 - [**DejaVue**](https://github.com/MiCottOn/DejaVue) good
-- [vue-build ★9](http://vue-build.com) - Simple templateless customizable cli for building any size vue application. TOREVIEW
+- [vue-build ★9](http://vue-build.com) good (although it should states its v2 support)
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
-- [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) - Vue.js server-side renderer for *.vue file based on vue-server-renderer TOREVIEW
-- [lint-sass-vue](https://atom.io/packages/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files. TOREVIEW
-- [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x) TOREVIEW
+- [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) readme doesn't provide of what the lib does
+- [lint-sass-vue](https://atom.io/packages/lint-sass-vue) doens't explain how the fork is different
+- [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) good
 
 ### Testing
 
-- [vue-node](https://github.com/knpwrs/vue-node) - Allows you to `require` `.vue` components in node for testing without browsers. TOREVIEW
-- [avoriaz](https://github.com/eddyerburgh/avoriaz) - A utility library to make testing your components easy. TOREVIEW
-- [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - Load `.vue` files directly from your html/js. No node.js environment, no build step. TOREVIEW
+- [vue-node](https://github.com/knpwrs/vue-node) good (although it should state its v2 support)
+- [avoriaz](https://github.com/eddyerburgh/avoriaz) good (although it should state its v2 support beyond just a GitHub tag)
+- [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) readme doesn't say how it works
 
 ### Syntax Highlighting
 
@@ -214,7 +214,7 @@
 - [Emacs ★10](https://github.com/CodeFalling/vue-mode) good
 - [Visual Studio 2015 ★7](https://github.com/madskristensen/VuePack) good
 - [KDE/Katepart (Kate, KWrite, KDevelop)](https://github.com/mtorromeo/kate-syntax-files/blob/master/vue.xml) good
-- [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref TOREVIEW
+- [vetur ★150](https://github.com/octref/vetur) good
 
 ### Snippets
 
@@ -230,7 +230,7 @@
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) good
 - [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) is not a library
 - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) good
-- [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref TOREVIEW
+- [vetur ★150](https://github.com/octref/vetur) duplicate
 
 ### Component Collections
 
@@ -319,11 +319,11 @@
 - [:hotsprings: **Onsen UI for Vue 2**](https://onsen.io/vue) good
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) from a lib KB size POV, the dependency on `element-ui` is quite a bad thing
 - [vue-impress](https://github.com/superwf/vue-impress) is not a library
-- [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding. TOREVIEW
-- [vue-chalkboard](https://github.com/filipemeneses/vue-chalkboard) - A native Vue.js component that provides a simple canvas chalkboard. By [@filipemeneses](https://github.com/filipemeneses). [Demo](http://blog.filipemeneses.com.br/vue-chalkboard/) <sup>2.x compatible</sup> TOREVIEW
-- [CoreUI](http://coreui.io), Open Source Vue.js Admin Template by [@mrholek](https://github.com/mrholek) <sup>2.x compatible</sup> TOREVIEW
-- [ATUI](http://aliqin.github.io/), vue components for desktop by [@aliqin](https://github.com/aliqin/) fe team <sup>2.0</sup> TOREVIEW
-- [vue-collapse](https://github.com/cezardasilva/vue-collapse): A simple collapse component for Vue.js 2.X By [@cezardasilva](https://github.com/cezardasilva). TOREVIEW
+- [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3) is a demo and not a library
+- [vue-chalkboard](https://github.com/filipemeneses/vue-chalkboard) is more a demo than a library
+- [CoreUI](http://coreui.io) couldn't find Vue documentation, the Vue part seems to be more of a boilerplate than a library
+- [ATUI](http://aliqin.github.io/) doc not in english
+- [vue-collapse](https://github.com/cezardasilva/vue-collapse) no live demo
 
 ### Libraries & Plugins
 
@@ -336,7 +336,7 @@
   - [**voie ★130**](https://github.com/inca/voie) unmaintained
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) good
   - [vue-update](https://github.com/ZeroDark1991/vue-update) readme doesn't explain enough
-  - [vue-acl ★12](https://github.com/leonardovilarinho/vue-acl) - its components and routes well protected with an access control list, by [Leonardo Vilarinho](https://github.com/leonardovilarinho) TOREVIEW
+  - [vue-acl ★12](https://github.com/leonardovilarinho/vue-acl) doesn't explain how the blocking of routes works
 
 - #### Ajax/Data
 
@@ -355,7 +355,7 @@
   - [vue-remote](https://github.com/MacArthurJustin/vue-remote) not sure what the added value is
   - [vue-instagram](https://github.com/kevinongko/vue-instagram) should say that it supports v2
   - [vue-wamp](https://github.com/lajosbencz/vue-wamp) good (although it should state its v2 support)
-  - [vue-apollo](https://github.com/Akryum/vue-apollo) A small library for fetching data via Apollo / GraphQL in Vue (1.x and 2.x) by @Akryum TOREVIEW
+  - [vue-apollo](https://github.com/Akryum/vue-apollo) duplicate
 
 - #### State Management
 
@@ -374,8 +374,8 @@
   - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) good (although it should state its v2 support beyond just a GitHub tag)
 
   - [vuex-redux-saga](https://github.com/xanf/vuex-redux-saga) solves a problem that is already tackled by vuex
-  - [vuex-promise-middleware](https://github.com/MatteoGabriele/vuex-promise-middleware) - Promise state dispatcher for Vuex TOREVIEW
-  - [vuex-local](https://github.com/ktsn/vuex-local) - Local state management within Vuex TOREVIEW
+  - [vuex-promise-middleware](https://github.com/MatteoGabriele/vuex-promise-middleware) added value is too small
+  - [vuex-local](https://github.com/ktsn/vuex-local) good (although it should state its v2 support)
 
 - #### Event Management
   - [vuemit](https://github.com/gocanto/vuemit) npm dependencies don't make sense, populating window object, the library is/should be framework agnostic
@@ -402,7 +402,7 @@
   - [vue-contextable](https://github.com/xpepermint/vue-contextable) good
   - [**vuelidate ★43**](https://github.com/monterail/vuelidate) good
   - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) good
-  - [vue-vform](https://github.com/joseluisq/vue-vform) - [Vue.js 2](https://vuejs.org/) form component that integrate [jQuery Validation](https://github.com/jquery-validation/jquery-validation) and [Axios](https://github.com/mzabriskie/axios). TOREVIEW
+  - [vue-vform](https://github.com/joseluisq/vue-vform) good (although package.json is missing jQuery dependency)
 
 - #### UI Components
 
@@ -553,25 +553,25 @@
   - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) good (although readme could be more explicit about what properties are reproduced)
   - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) good
   - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar) good
-  - [vue-qriously](https://github.com/theomessin/vue-qriously) - Generate QR codes on HTML canvas easily using qrious <sup>2.x compatible</sup> TOREVIEW
-  - [survey.js](https://github.com/surveyjs/surveyjs): JavaScript full featured JSON based Survey library with vue implementation TOREVIEW
-  - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) Progressive image loading plugin for Vue TOREVIEW
-  - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map): 基于Vue.js(v1)的百度地图组件 TOREVIEW
-  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d): Beautiful, flexible and touch-friendly 3D Carousel for Vue.js TOREVIEW
-  - [vue-context-menu ★13](https://github.com/vmaimone/vue-context-menu): Vue plugin for right click context menu TOREVIEW
-  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view): A JSON Tree View (for Vue 2.x) TOREVIEW
-  - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) - Flexbox based responsive fraction grid system for Vue.js (2.x) TOREVIEW
-  - [vue-carousel ★54](https://github.com/SSENSE/vue-carousel): A flexible, responsive, touch-friendly carousel for Vue.js By [@SSENSE](https://github.com/SSENSE) TOREVIEW
-  - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) A pull down refresh component implement by vue 2.0 [@lakb248](https://github.com/lakb248) TOREVIEW
-  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) A ip input implements by vuejs [@lakb248](https://github.com/lakb248) TOREVIEW
-  - [vue-float-label](https://github.com/bkzl/vue-float-label) - Float label pattern for Vue.js (2.x) TOREVIEW
-  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Vue.js(v2.x+) component for creating pagination highly customizable. Inspired in Angular uib Pagination. TOREVIEW
-  - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) - 基于Vue2的好看的图片输入框 By [Waynecz](https://github.com/waynecz) TOREVIEW
-  - [vue-laypage](https://github.com/sinchang/vue-laypage) - A simple pagination component for Vue.js, Based on [layPage](http://laypage.layui.com/). By [@sinchang](https://github.com/sinchang) TOREVIEW
-  - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) - [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for Vue. By [@gluons](https://github.com/gluons) TOREVIEW
-  - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) - Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data. TOREVIEW
-  - [vue-toasted](https://shakee93.github.io/vue-toasted) : a cool touch compatible, responsive toast for vue. by [@shakee93](https://github.com/shakee93) TOREVIEW
-  - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) A simple Vue checkbox switch (On/Off) style with no dependencies by [@rafaelpimpa](https://github.com/rafaelpimpa) TOREVIEW
+  - [vue-qriously](https://github.com/theomessin/vue-qriously) good
+  - [survey.js](https://github.com/surveyjs/surveyjs) usage info for vue is missing (demo on Plunker is not enough)
+  - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) good (although it should state its v2 support)
+  - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map) readme not entirely in English
+  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d) good (although it should state its v2 support)
+  - [vue-context-menu ★13](https://github.com/vmaimone/vue-context-menu) good
+  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) good (although it should state its v2 support)
+  - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) good (although it should state its v2 support)
+  - [vue-carousel ★54](https://github.com/SSENSE/vue-carousel) good (although it should state its v2 support)
+  - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) demo doesn't work
+  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) good
+  - [vue-float-label](https://github.com/bkzl/vue-float-label) good (although it should state its v2 support)
+  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) good (although it should state its v2 support beyond just a GitHub tag)
+  - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) readme not in english
+  - [vue-laypage](https://github.com/sinchang/vue-laypage) readme not entirely in english
+  - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) added value too small
+  - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) seems too much to include jQuery and boostrap for a pagination component
+  - [vue-toasted](https://shakee93.github.io/vue-toasted) good
+  - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) npm package missing
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n) good
@@ -589,17 +589,17 @@
   - [vue-progressbar-xeonpowder ★1](https://github.com/XeonPowder/vue-progressbar) doesn't say how the fork is different
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts) duplicate
   - [VueLinkPopover](https://github.com/klummy/VueLinkPopover) no live demo
-  - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) - build systems with many languages in an easy way, by [Leonardo Vilarinho](https://github.com/leonardovilarinho) TOREVIEW
+  - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) doens't explain what the errors object is about
 
 - #### Analytics
   - [vue-ua](https://github.com/ScreamZ/vue-analytics) good
-  - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) Vue plugin for Google Analytics TOREVIEW
+  - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) good (although it should state its v2 support)
 
 - #### Advertising
   - [vue-adsense](https://github.com/darrynten/vue-adsense) added value too small
 
 - #### Utility
-  - [vue-decorators ★1](https://github.com/partyka95/vue-decorators): Decorators for Vue and Vuex [@partyka95](https://github.com/partyka95) TOREVIEW
+  - [vue-decorators ★1](https://github.com/partyka95/vue-decorators) good (although it should state its v2 support)
 
 - #### Examples
 
@@ -690,7 +690,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-boilerplate-v2](https://github.com/xlsdg/vue-boilerplate-v2) readme is lacking
   - [Vue all-in Typescript example ](https://github.com/Jack85/vuejs-typescript-template) is more an example than a boilerplate
   - [vue-mix ★5](https://github.com/cklmercer/vue-mix) readme is lacking
-  - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) by @Metnew - Robust simple Vue.js starter built with Element-UI, Webpack and Vuex. TOREVIEW
+  - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) good (although it should state its v2 support beyond just a GitHub tag)
 
 - #### Scaffolding
 
@@ -820,15 +820,15 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-responsive](https://github.com/reinerBa/Vue-Responsive) no npm package (otherwise good)
   - [awesome-mask ★24](https://github.com/moip/awesome-mask) should state that v2 is supported (otherwise good)
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue) readme is lacking info
-  - [vue-qart ](https://github.com/superman66/vue-qart): The directive of Vue 2.0 for qart.js which can generate pretty qrcode by img. TOREVIEW
-  - [Vue-Interval](https://github.com/reinerBa/Vue-Interval): Vue.js(2.x) mixin to create components with countdown or clock, define methods that will be called in a specified interval, to dynamically start, suspend, resume and delete intervals that can have a livespan and callback. TOREVIEW
-  - [Vuedeux](https://github.com/Vuedeux/vuedeux): a lightweight, open-source utility layer for binding Vuex to Redux allowing developers to efficiently use their Redux stores within Vue/Vuex applications. TOREVIEW
-  - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids): A Vue.js(2.x) plugin that helps to use id-related attributes with no side-effect TOREVIEW
-  - [@kashio/vue-toast](https://github.com/Kashio/vue-toast) Vue.js toast plugin. TOREVIEW
-  - [vue-ls](https://github.com/RobinCK/vue-ls) Vue plugin for work with LocalStorage from Vue context. Support watch changes. TOREVIEW
-  - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) Simple BEM class name generator for Vue.JS TOREVIEW
-  - [vuec](https://github.com/dealloc/vuec) A simple IoC container for VueJS TOREVIEW
-  - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload): A lazyload plugin for Vue.js v2.x+.. By [@lsycxyj] TOREVIEW
+  - [vue-qart ](https://github.com/superman66/vue-qart) good
+  - [Vue-Interval](https://github.com/reinerBa/Vue-Interval) not sure what this is about
+  - [Vuedeux](https://github.com/Vuedeux/vuedeux) good  (although it should state that it supports v2)
+  - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids) should include a usae example where it is usefull to have an ID
+  - [@kashio/vue-toast](https://github.com/Kashio/vue-toast) no live demo
+  - [vue-ls](https://github.com/RobinCK/vue-ls) good
+  - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) good
+  - [vuec](https://github.com/dealloc/vuec) should elaborate more on why dependency injection should be used
+  - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload) good
 
 
 - #### SEO

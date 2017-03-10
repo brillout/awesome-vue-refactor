@@ -29,6 +29,7 @@
 
  - [vue-notifications](https://github.com/se-panfilov/vue-notifications)
  - [vue-easy-toast](https://github.com/noru/vue-easy-toast)
+ - [vue-toasted](https://github.com/shakee93/vue-toasted)
 
 ### Loader
 
@@ -76,6 +77,8 @@ Tooltips / popovers
  - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
  - [vue-slick](https://github.com/staskjs/vue-slick)
  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity)
+ - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)
+ - [vue-carousel](https://github.com/SSENSE/vue-carousel)
 
 ### Charts
 
@@ -117,9 +120,24 @@ Tooltips / popovers
 
  - [vue-markdown](https://github.com/miaolz123/vue-markdown)
 
+### Tree
+
+*Display a tree data structure*
+
+###### JSON
+
+*Display JSON data*
+
+ - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view)
+
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing)
+
+### QR code
+
+ - [vue-qriously](https://github.com/theomessin/vue-qriously)
+ - [vue-qart](https://github.com/superman66/vue-qart)
 
 ### Miscellaneous
 
@@ -185,6 +203,7 @@ Tooltips / popovers
 
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input)
 - [vue-text-mask](https://github.com/text-mask/text-mask)
+- [vue-ip-input](https://github.com/lakb248/vue-ip-input)
 
 ###### Rich Text Editing
 
@@ -204,12 +223,17 @@ Tooltips / popovers
  - [vue-clip](https://github.com/thetutlage/vue-clip)
  - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload)
 
+###### Context Menu
+
+ - [vue-context-menu](https://github.com/vmaimone/vue-context-menu)
+
 ###### Miscellaneous
 
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps)
  - [vuep](https://github.com/QingWei-Li/vuep)
  - [vue-places](https://github.com/Gomah/vue-places)
  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter)
+ - [vue-float-label](https://github.com/bkzl/vue-float-label)
 
 
 
@@ -277,6 +301,7 @@ Tooltips / popovers
  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
  - [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone)
  - [vue-masonry](https://github.com/shershen08/vue-masonry)
+ - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid)
 
 
 
@@ -309,6 +334,7 @@ Tooltips / popovers
  - [vue-rawmodel](https://github.com/xpepermint/vue-rawmodel)
  - [vuelidate](https://github.com/monterail/vuelidate)
  - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator)
+ - [vue-vform](https://github.com/joseluisq/vue-vform)
 
 ### Form Inputs
 
@@ -329,11 +355,14 @@ Tooltips / popovers
 
  - [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
  - [vue-lazy-background-images](https://github.com/darrynten/vue-lazy-background-images)
+ - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
+ - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload)
 
 ### Pagination
 
  - [vue-paginate](https://github.com/TahaSh/vue-paginate)
  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2)
+ - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination)
 
 ### Animation
 
@@ -355,6 +384,10 @@ Tooltips / popovers
 ### Filters
 
  - [vue2-filters](https://github.com/freearhey/vue2-filters)
+
+### SVG
+
+ - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon)
 
 ### Miscellaneous
 
@@ -408,19 +441,25 @@ Tooltips / popovers
 
  - [vue-reactive-storage](https://github.com/ropbla9/vue-reactive-storage)
  - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage)
+ - [vue-ls](https://github.com/RobinCK/vue-ls)
 
 ### State Management
 
  - [vuex](https://github.com/vuejs/vuex)
- - [revue](https://github.com/revue/revue)
  - [vue-sync](https://github.com/buhrmi/vue-sync)
 
-### Vuex Utilities
+### Redux
+
+ - [revue](https://github.com/revue/revue)
+ - [vuedeux](https://github.com/Vuedeux/vuedeux)
+
+#### Vuex Utilities
 
  - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
  - [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin)
+ - [vuex-local](https://github.com/ktsn/vuex-local)
 
-#### Sync between tabs
+##### Sync between tabs
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations)
@@ -432,6 +471,11 @@ Tooltips / popovers
  - [vue-types](https://github.com/dwightjack/vue-types)
  - [vue-factory](https://github.com/ye-will/vue-factory)
  - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
+ - [vue-decorators](https://github.com/partyka95/vue-decorators)
+
+### CSS
+
+ - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn)
 
 ### Asset Management
 
@@ -456,7 +500,6 @@ Tooltips / popovers
 *Integrate with services or other frameworks*
 
  - [vue-disqus](https://github.com/ktquez/vue-disqus)
- - [vue-ua](https://github.com/ScreamZ/vue-analytics)
  - [vue-youtube-embed](https://github.com/kaorun343/vue-youtube-embed)
  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar)
  - [meteor-vue-component](https://github.com/Akryum/vue-meteor)
@@ -472,6 +515,11 @@ Tooltips / popovers
  - [vue-websocket](https://github.com/icebob/vue-websocket)
  - [vue-wamp](https://github.com/lajosbencz/vue-wamp)
  - [express-vue](https://github.com/danmademe/express-vue)
+
+###### Google Analytics
+
+ - [vue-ua](https://github.com/ScreamZ/vue-analytics)
+ - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics)
 
 
 
@@ -501,7 +549,14 @@ Tooltips / popovers
 
 ### Test
 
+ - [avoriaz](https://github.com/eddyerburgh/avoriaz)
+
+#### Browser-less require
+
+*Load Vue components without browser*
+
  - [vuegister](https://github.com/iatsiuk/vuegister)
+ - [vue-node](https://github.com/knpwrs/vue-node)
 
 ### Source Code Editing
 
@@ -527,6 +582,7 @@ Tooltips / popovers
 
  - [Vscode Vue](https://github.com/LiuJi-Jim/vscode-vue)
  - [Vue.js Pack](https://github.com/madskristensen/VuePack)
+ - [Vetur](https://github.com/octref/vetur)
 
 ###### Brackets
 
@@ -564,6 +620,8 @@ Tooltips / popovers
  - [Bourgeon](https://github.com/rayfranco/bourgeon)
  - [VuePack](https://github.com/egoist/vuepack)
  - [Vue Settler](https://github.com/weavingbird/vue-settler)
+ - [vue-build](https://github.com/brianvoe/vue-build)
+ - [Vue Element Starter](https://github.com/Metnew/vue-element-starter)
 
 ### Universal
 
