@@ -297,7 +297,7 @@
 
  - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress)
 
-###### Progress Bar
+#### Progress Bar
 
 *A slim progress bar at the top of the page*
 
@@ -324,17 +324,15 @@ Tooltips / popovers
  - [vue-awesome](https://github.com/Justineo/vue-awesome)
 
 ### Menu
+
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav)
 
-### Slider
-
- - [vue-lory](https://github.com/vue-bulma/lory)
-
-###### Carousel
+### Carousel
 
  - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider)
  - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel)
  - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+ - [vue-lory](https://github.com/vue-bulma/lory)
  - [vue-slick](https://github.com/staskjs/vue-slick)
  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity)
  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)
@@ -394,7 +392,7 @@ Tooltips / popovers
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing)
 
-### QR code
+### QR Code
 
  - [vue-qriously](https://github.com/theomessin/vue-qriously)
  - [vue-qart](https://github.com/superman66/vue-qart)
@@ -412,7 +410,7 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
-### Date Picker
+#### Date Picker
 
 *Date / datetime / time Picker*
 
@@ -421,79 +419,98 @@ Tooltips / popovers
  - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker)
  - [vue-flatpickr](https://github.com/jrainlau/vue-flatpickr)
 
-###### Select
+#### Select
 
  - [vue-select](https://github.com/sagalbot/vue-select)
  - [vue-multiselect](https://github.com/monterail/vue-multiselect)
 
-###### Slider
+#### Slider
 
  - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)
 
-###### Drag and Drop
+#### Drag and Drop
 
  - [vuedraggable](https://github.com/SortableJS/Vue.Draggable)
  - [vue-dragula](https://github.com/Astray-git/vue-dragula)
  - [awe-dnd](https://github.com/hilongjw/vue-dragging)
 
-###### Autocomplete
+#### Autocomplete
 
 *Autosuggest / autocomplete / typeahead*
 
  - [vue-instant](https://github.com/santiblanko/vue-instant)
 
-###### Type Select
+#### Type Select
 
 *Let the user select a tag / something while typing*
 
  - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput)
  - [vue-input-tag](https://github.com/matiastucci/vue-input-tag)
 
-###### Color Picker
+#### Color Picker
 
  - [vue-color](https://github.com/xiaokaike/vue-color)
 
-###### Switch
+#### Switch
 
 *Switch / on/off toggle / checkbox*
 
  - [vue-switches](https://github.com/drewjbartlett/vue-switches)
 
-###### Masked Input
+#### Masked Input
 
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input)
 - [vue-text-mask](https://github.com/text-mask/text-mask)
 - [vue-ip-input](https://github.com/lakb248/vue-ip-input)
 
-###### Rich Text Editing
+#### Rich Text Editing
 
  - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
  - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor)
  - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor)
  - [vue-froala](https://github.com/helpbase/vue-froala)
 
-###### Image Manipulation
+#### Image Manipulation
 
 *Edit images*
 
  - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload)
 
-###### File Upload
+#### File Upload
 
  - [vue-clip](https://github.com/thetutlage/vue-clip)
  - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload)
 
-###### Context Menu
+#### Context Menu
 
  - [vue-context-menu](https://github.com/vmaimone/vue-context-menu)
 
-###### Miscellaneous
+#### Miscellaneous
 
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps)
  - [vuep](https://github.com/QingWei-Li/vuep)
  - [vue-places](https://github.com/Gomah/vue-places)
  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter)
  - [vue-float-label](https://github.com/bkzl/vue-float-label)
+
+
+
+
+
+
+
+
+
+## UI Layout
+
+*Layout for the overall / main view*
+
+ - [vue-waterfall](https://github.com/MopTym/vue-waterfall)
+ - [vueisotope](https://github.com/David-Desmaisons/Vue.Isotope)
+ - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
+ - [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone)
+ - [vue-masonry](https://github.com/shershen08/vue-masonry)
+ - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid)
 
 
 
@@ -552,23 +569,6 @@ Tooltips / popovers
 
 
 
-## UI Layout
-
-*Layout for the overall / main view*
-
- - [vue-waterfall](https://github.com/MopTym/vue-waterfall)
- - [vueisotope](https://github.com/David-Desmaisons/Vue.Isotope)
- - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)
- - [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone)
- - [vue-masonry](https://github.com/shershen08/vue-masonry)
- - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid)
-
-
-
-
-
-
-
 ## UI Utilities
 
 ### Event Handling
@@ -582,7 +582,7 @@ Tooltips / popovers
  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire)
  - [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize)
 
-### Responsive design
+### Responsive Design
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports)
 
@@ -611,7 +611,7 @@ Tooltips / popovers
 
  - [vue-router](https://github.com/vuejs/vue-router)
 
-### Lazy load
+### Lazy Load
 
  - [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
  - [vue-lazy-background-images](https://github.com/darrynten/vue-lazy-background-images)
@@ -628,7 +628,7 @@ Tooltips / popovers
 
  - [vue2-animate](https://github.com/asika32764/vue2-animate)
 
-### Meta tags
+### Meta Tags
 
 *Manage meta information in the document head*
 
@@ -661,7 +661,9 @@ Tooltips / popovers
 
 
 
-## Code Utilities
+## Utilities
+
+*Utilities not directly related to the UI*
 
 ### Typescript
 
@@ -672,7 +674,7 @@ Tooltips / popovers
  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts)
  - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader)
 
-### HTTP requests
+### HTTP Requests
 
 *Retrieve data over HTTP*
 
@@ -690,7 +692,7 @@ Tooltips / popovers
  - [vuex-i18n](https://github.com/dkfbasel/vuex-i18n)
  - [vue-gettext](https://github.com/Polyconseil/vue-gettext)
 
-### Custom events
+### Custom Events
 
  - [vue-events](https://github.com/cklmercer/vue-events)
  - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler)
@@ -708,7 +710,7 @@ Tooltips / popovers
  - [vuex](https://github.com/vuejs/vuex)
  - [vue-sync](https://github.com/buhrmi/vue-sync)
 
-### Redux
+#### Redux
 
  - [revue](https://github.com/revue/revue)
  - [vuedeux](https://github.com/Vuedeux/vuedeux)
@@ -719,7 +721,7 @@ Tooltips / popovers
  - [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin)
  - [vuex-local](https://github.com/ktsn/vuex-local)
 
-##### Sync between tabs
+###### Sync Between Tabs
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations)
@@ -811,7 +813,7 @@ Tooltips / popovers
 
  - [avoriaz](https://github.com/eddyerburgh/avoriaz)
 
-#### Browser-less require
+###### Browser-less require
 
 *Load Vue components without browser*
 
@@ -822,7 +824,7 @@ Tooltips / popovers
 
 *Text editor plugins*
 
-###### Atom
+#### Atom
 
  - [language-vue@atom.io](https://github.com/hedefalk/atom-vue)
  - [language-vue-component@atom.io](https://github.com/CYBAI/language-vue-component)
@@ -830,33 +832,33 @@ Tooltips / popovers
  - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets)
  - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile)
 
-###### Sublime Text
+#### Sublime Text
 
  - [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
 
-###### Vim
+#### Vim
 
  - [Vim Vue](https://github.com/posva/vim-vue)
 
-###### Visual Studio
+#### Visual Studio
 
  - [Vscode Vue](https://github.com/LiuJi-Jim/vscode-vue)
  - [Vue.js Pack](https://github.com/madskristensen/VuePack)
  - [Vetur](https://github.com/octref/vetur)
 
-###### Brackets
+#### Brackets
 
  - [Brackets Vue](https://github.com/pandao/brackets-vue)
 
-###### Intellij
+#### Intellij
 
  - [Vue.js Plugin](https://github.com/postalservice14/vuejs-plugin)
 
-###### Emacs
+#### Emacs
 
  - [Vue Mode](https://github.com/CodeFalling/vue-mode)
 
-###### Kate
+#### Kate
 
  - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files)
 
