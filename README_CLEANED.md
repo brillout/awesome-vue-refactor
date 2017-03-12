@@ -955,11 +955,13 @@ Tooltips / popovers
 
  - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highligth for Vue.js components.
 
+#### Visual Studio Code
+
+ - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+
 #### Visual Studio
 
- - [Vscode Vue](https://github.com/LiuJi-Jim/vscode-vue) - Vue syntax highlighting for visual studio code.
- - [Vue.js Pack](https://github.com/madskristensen/VuePack) - Contains HTML Intellisense and code snippets for the Vue.js JavaScript library.
- - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+ - [VuePack](https://github.com/madskristensen/VuePack) - Contains HTML Intellisense and code snippets for the Vue.js JavaScript library.
 
 #### Brackets
 
