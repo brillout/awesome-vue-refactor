@@ -788,7 +788,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) no v2
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) no english doc
   - [vue-dropload](https://github.com/yodfz/m-dropload) readme not in english
-  - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) good
+  - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) npm package missing (otherwise good)
   - [vue-froala ★1](https://github.com/helpbase/vue-froala) good
   - [vue-echo](https://github.com/happyDemon/vue-echo) doesn't mention v2 support
   - [vue-types ★2](https://github.com/dwightjack/vue-types) good

@@ -816,7 +816,6 @@ Tooltips / popovers
 
 *LocalStorage etc.*
 
- - [vue-reactive-storage](https://github.com/ropbla9/vue-reactive-storage)
  - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage)
  - [vue-ls](https://github.com/RobinCK/vue-ls)
 
