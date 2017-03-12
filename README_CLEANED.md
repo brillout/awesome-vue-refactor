@@ -878,7 +878,7 @@ Tooltips / popovers
  - [vue-disqus](https://github.com/ktquez/vue-disqus)
  - [vue-youtube-embed](https://github.com/kaorun343/vue-youtube-embed)
  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar)
- - [meteor-vue-component](https://github.com/Akryum/vue-meteor)
+ - [Vue + Meteor](https://github.com/Akryum/vue-meteor)
  - [vue-apollo](https://github.com/Akryum/vue-apollo)
  - [av-ts](https://github.com/HerringtonDarkholme/av-ts)
  - [Neutronium](https://github.com/NeutroniumCore/Neutronium)
