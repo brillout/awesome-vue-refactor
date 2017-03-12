@@ -108,7 +108,7 @@
       - [Intellij](#intellij)
       - [Emacs](#emacs)
       - [Kate](#kate)
-  - [Starter Kit](#starter-kit)
+  - [Scaffold](#scaffold)
     - [Client](#client)
     - [Universal](#universal)
     - [Server](#server)
@@ -982,9 +982,9 @@ Tooltips / popovers
 
 
 
-## Starter Kit
+## Scaffold
 
-*Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
+*Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
  - [vue-cli](https://github.com/vuejs/vue-cli)
 
