@@ -138,6 +138,7 @@
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
 - [Vue.js Tips](http://vuetips.com) - Tips to become a better Vue.js developer
+- [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
 ### Job Portal
 
@@ -460,6 +461,7 @@ Tooltips / popovers
  - [vue-chartjs](https://github.com/apertureless/vue-chartjs)
  - [hchs-vue-charts](https://github.com/hchstera/vue-charts)
  - [vue-echarts](https://github.com/Justineo/vue-echarts)
+ - [vuetrend](https://github.com/QingWei-Li/vue-trend)
 
 ### Time
 

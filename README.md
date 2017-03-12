@@ -41,6 +41,7 @@
   - [Utility](#utility)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
+  - [Commercial Products](#commercial-products)
   - [Apps/Websites](#appswebsites)
   - [Interactive Experiences](#interactive-experiences)
   - [Enterprise Usage](#enterprise-usage)
@@ -58,6 +59,7 @@
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
 - [Vue.js Tips](http://vuetips.com) - Tips to become a better Vue.js developer
+- [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
 ### Job Portal
 
@@ -573,6 +575,7 @@
   - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) seems too much to include jQuery and boostrap for a pagination component
   - [vue-toasted](https://shakee93.github.io/vue-toasted) good
   - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) npm package missing
+  - [vue trend](https://github.com/QingWei-Li/vue-trend) good
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n) good
@@ -914,6 +917,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
     - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) part of Wijmo
     - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) part of Wijmo
     - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) part of Wijmo
+    - [Collate Notes](http://www.collatenotes.com/) - Cross platform note taking application built with Vue2 and Electron. TOREVIEW
 
 - #### Apps/Websites
 
@@ -993,7 +997,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News; [article how it was built](http://devan.blaze.com.au/blog/2017/3/3/tophn-a-fun-side-project-built-with-vuejs-and-rethinkdb) TOREVIEW
   - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) - Full Stack Weekly is free weekly newsletter for full stack developers. TOREVIEW
   - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000)  - 「ONE · 一个」Vue复刻版 / A replication of http://wufazhuce.com/ in Vue TOREVIEW
-
 
 - #### Interactive Experiences
 
