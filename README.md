@@ -159,6 +159,11 @@
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 
+### Books
+
+- [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) good
+- [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) good
+
 ### Development Tools
 
 - [**vue-cli ★1,115**](https://github.com/vuejs/vue-cli) good
@@ -864,7 +869,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
   - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup> good
   - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup> deprecated, unmaintained project
-  - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup> good?
+  - [Python China](https://python-china.org) readme on GitHub is lacking information
   - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup> no description, inactive
   - [Todolist ★16](https://github.com/Memkits/todolist) inactive, last commit in 2014 vue 0.10, website 404
   - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) inactive, last commit in 2015 vue 0.12
