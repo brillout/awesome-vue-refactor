@@ -1017,6 +1017,11 @@ Tooltips / popovers
  - [Electron Vue](https://github.com/SimulatedGREG/electron-vue)
  - [VuePack](https://github.com/egoist/vuepack)
 
+### Parts
+
+*Sacaffold parts of the app*
+
+ - [vue-generator](https://github.com/hjeti/vue-generator)
 
 
 

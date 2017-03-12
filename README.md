@@ -195,6 +195,7 @@
 - [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) readme doesn't provide of what the lib does
 - [lint-sass-vue](https://atom.io/packages/lint-sass-vue) doens't explain how the fork is different
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) good
+- [vue-generator](https://github.com/hjeti/vue-generator) good (although it should state its v2 support)
 
 ### Testing
 
