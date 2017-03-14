@@ -513,13 +513,20 @@ Tooltips / popovers
  - [vue-qriously](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
  - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
 
+### Modals
+
+*Modal / dialogs / alerts / confirm*
+
+- [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
+- [vue-dialog](https://github.com/javisperez/vue-dialog) - Dialog windows for Vue 2.x (like confirm or alert), based on Vuedals.
+
 ### Miscellaneous
 
  - [vue-avatar](https://github.com/eliep/vue-avatar) - An avatar component for vue.js.
  - [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - Touch ripple component for Vue.js(1.x ~ 2.x).
  - [vue-typer](https://github.com/cngu/vue-typer) - Vue component that simulates a user typing, selecting, and erasing text.
-
-
+ - [vue-visible](https://github.com/javisperez/vue-visible) -  A v-visible directive for VueJS (2.x), like v-show but for visibility
+ - [vue-longpress](https://github.com/javisperez/vuelongpress) - A VueJS (2.x) button component that requires you to keep pressing to confirm a given action.
 
 
 ### Form
