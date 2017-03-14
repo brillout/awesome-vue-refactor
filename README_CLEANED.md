@@ -519,6 +519,7 @@ Tooltips / popovers
  - [vue-avatar](https://github.com/eliep/vue-avatar) - An avatar component for vue.js.
  - [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - Touch ripple component for Vue.js(1.x ~ 2.x).
  - [vue-typer](https://github.com/cngu/vue-typer) - Vue component that simulates a user typing, selecting, and erasing text.
+ - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) - Vue 2 virtual keyboard component.
 
 
 
