@@ -853,7 +853,7 @@ Tooltips / popovers
 
 ### CSS
 
- - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) - Vue-bem-cn - Simple BEM class name generator for Vue.JS.
+ - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) - Simple BEM class name generator for Vue.JS.
 
 ### Asset Management
 
