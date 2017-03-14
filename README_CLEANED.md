@@ -866,8 +866,8 @@ Tooltips / popovers
  - [vue-brunch](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
  - [vbuild](https://github.com/egoist/vbuild) - Fast prototype and distribute modern web apps like a pro.
 
-
-
+### Miscellaneous
+- [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
 
 
 
@@ -928,6 +928,7 @@ Tooltips / popovers
 ### Test
 
  - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.
+ - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
 
 ###### Browser-less require
 
@@ -1001,7 +1002,7 @@ Tooltips / popovers
  - [VuePack](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
  - [Vue Settler](https://github.com/weavingbird/vue-settler) - An opinionated Vue 2.0 SPA Starter.
  - [vue-build](https://github.com/brianvoe/vue-build) - Ultra Simple, Development, Testing and Production Build Cli.
- - [Vue Element Starter](https://github.com/Metnew/vue-element-starter) - Robust Vue starter with Element-UI.
+ - [Vue Element Starter](https://github.com/Metnew/vue-element-starter) - Robust Vue 2 starter with Element-UI.
 
 ### Universal
 
