@@ -70,8 +70,8 @@
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
     - [Responsive Design](#responsive-design)
-    - [Form Validation](#form-validation)
-    - [Form Inputs](#form-inputs)
+    - [Form](#form-1)
+      - [Validation](#validation)
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -113,6 +113,7 @@
     - [Universal](#universal)
     - [Server](#server)
     - [Electron](#electron)
+    - [Parts](#parts)
 
 
 
@@ -702,20 +703,21 @@ Tooltips / popovers
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports) - Define your custom viewports and use them in your components.
 
-### Form Validation
+### Form
+
+ - [vue-formly](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
+ - [vue-focus](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components.
+
+#### Validation
 
  - [vue-validator](https://github.com/kazupon/vue-validator) - Validator component for Vue.js.
  - [vee-validate](https://github.com/logaretm/vee-validate) - Simple Vue.js input validation plugin.
- - [vue-formly](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
  - [vue-rawmodel](https://github.com/xpepermint/vue-rawmodel) - RawModel.js plugin for Vue.js v2. Form validation has never been easier.
  - [vuelidate](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js.
  - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js.
  - [vue-vform](https://github.com/joseluisq/vue-vform) - Vue.js 2 form component that integrates jQuery Validation and Axios.
  - [vue-form](https://github.com/fergaldoyle/vue-form) - Comprehensive form validation for Vue.js.
 
-### Form Inputs
-
- - [vue-focus](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components.
 
 ### Scroll
 
