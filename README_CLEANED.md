@@ -930,6 +930,7 @@ Tooltips / popovers
 
  - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.
  - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
+ - [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - Load .vue files directly from your html/js without node.js environment nor build step.
 
 ###### Browser-less require
 
