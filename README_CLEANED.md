@@ -1001,7 +1001,7 @@ Tooltips / popovers
  - [VuePack](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
  - [Vue Settler](https://github.com/weavingbird/vue-settler) - An opinionated Vue 2.0 SPA Starter.
  - [vue-build](https://github.com/brianvoe/vue-build) - Vue cli.
- - [Vue Element Starter](https://github.com/Metnew/vue-element-starter) - Robust Vue starter with Element-UI.
+ - [Vue Element Starter](https://github.com/Metnew/vue-element-starter) - Robust Vue 2 starter with Element-UI.
 
 ### Universal
 
