@@ -45,6 +45,7 @@
     - [Tree](#tree)
     - [Social Sharing](#social-sharing)
     - [QR Code](#qr-code)
+    - [Modals](#modals)
     - [Miscellaneous](#miscellaneous)
     - [Form](#form)
       - [Date Picker](#date-picker)
@@ -515,7 +516,7 @@ Tooltips / popovers
 
 ### Modals
 
-*Modal / dialogs / alerts / confirm*
+*Modals / dialogs / alerts / confirms*
 
 - [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 - [vue-dialog](https://github.com/javisperez/vue-dialog) - Dialog windows for Vue 2.x (like confirm or alert), based on Vuedals.
