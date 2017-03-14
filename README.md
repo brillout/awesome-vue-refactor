@@ -550,7 +550,6 @@
   - [v-qrcode](https://github.com/atwxp/v-qrcode) added value too small, should state that it's based on https://github.com/atwxp/v-qrcode
   - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git) live demo seems to be buggy
   - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) readme doesn't explain what the lib does
-  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) should state that it supports v2 (otherwise good)
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) good
   - [vue-masked-input](https://niksmr.github.io/vue-masked-input/) good
   - [vue-droppler](https://github.com/joearcher/vue-droppler) added vaue too small
