@@ -899,7 +899,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) good, will add link to github
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) good
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo) good
-  - [vue-music163](https://github.com/pluto1114/vue-music163.git) seems good (app not in english)
+  - [vue-music163](https://github.com/pluto1114/vue-music163) ![vue-music163](https://img.shields.io/github/stars/pluto1114/vue-music163.svg?style=social&label=Star&maxAge=2592000) A Vue.js project for music,which song is from music 163.
   - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) good
   - [Demo of Bureaufast workflow egine](https://github.com/yetaai/bureaufast) no description, website not loading, error
   - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup> no description (app/website category?)
