@@ -326,11 +326,13 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [SDR News](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
  - [PJ Blog](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
  - [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
+  - [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa)
 
 
 ## Commercial Products
 
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
+ - [Collate Notes](http://www.collatenotes.com/)
 
 
 ## Apps/Websites
@@ -339,10 +341,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
-  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/)
-  - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
-  - [N1.ru](http://n1.ru)
   - [稀土掘金](http://gold.xitu.io)
   - [Prague Airport](http://www.prague-airport.com/)
   - [Portfolio Site](http://corentinbac.com/)
@@ -352,40 +351,29 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Statamic](https://statamic.com)
   - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
   - [TravelMap](http://clem.travelmap.fr) - A simple way for travellers to create a blog based on a Map.
-  - [movienote.org](http://movienote.org) - A app which help users maintaining a list about what movie they have watched.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
   - [CheckIt](https://check-it.io)
   - [Reddit News ★34](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
   - [小桃酱](https://app.xiaotaojiang.com/)
-  - [金哲博客](http://jinzhe.net/)
   - [cloudradioo](http://cloudradioo.com) - Web app that plays randomly all top 50 songs from the soundcloud charts
-  - [Zova](https://zova.com/)
   - [vNotes](https://halfeld.github.io/v-notes/#!/) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
-  - [Subordination](http://subordination.cu.cc/) - A desktop app for translating and editing subtitles.
-  - [SPA Blog](http://ktquez.com/) - Personal blog and portfolio site.
-  - [WP ERP](https://wordpress.org/plugins/erp/) - An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail systemn written in node.js.
   - [octimine](https://www.octimine.com/) - A patent search engine.
   - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
-  - [蜜蜂聚财](http://app.beejc.com) - A P2P web app for car loans.
   - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
-  - [Bayo](http://bayo.vn) - A simple and powerful website for Vietnamese travelers. We revolutionize travel planning and booking in a personalized, fun and productive way.
   - [X-SONGTAO★11](http://xiangsongtao.com) - A Personal blog. FE and CMS are in same vue SPA.
   - [Cinemateka](http://cinema.seance.ru) - Film & events schedule SPA made with Vue & Laravel 5. Russian.
   - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hostiptal information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
-  - [Citymoods](http://citymoods.cc) - Track the pusle of your city. See the moods of its tweets
-  - [Approach0](http://approach0.xyz) - A math-aware search engine for math.stackexchange.com.
   - [The Spice House](https://www.thespicehouse.com) - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
   - [Livestorm](http://livestorm.co) - Webinar / Live events app.
   - [Metric Loop](https://metricloop.com) - A technology services and solutions website.
   - [Holden](https://www.holden.com.au)
   - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
   - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) - A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC).
-  - [LIHKG討論區](https://lihk-forum.firebaseapp.com) - Unofficial Web client for LIHKG forum.
   - [FreePoll.Online](https://www.freepoll.online) - A group decision making tool built using Vue.js, vue-sortable, Semantic UI and Zappa.
   - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app) - Track github project's new release on mac menubar using vue.js with electron.
   - [12BAY.VN](https://12bay.vn) - Applications online flight bookings.
@@ -394,6 +382,11 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
   - [Bitly Vue](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS & Bitly API.
   - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
+  - [WizzAir](https://wizzair.com/)
+  - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
+  - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
+  - [Coypu](https://coypu.co) - Text-editor-like weekly planner
+  - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
 
 
 
