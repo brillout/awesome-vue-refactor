@@ -661,7 +661,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) ![vue-laravel-example](https://img.shields.io/github/stars/jcc/vue-laravel-example.svg?style=social&label=Star&maxAge=2592000) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
 +  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template
 +  - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
-+  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68) 
++  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68)
 +  - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) ![vue-laravel-example](https://img.shields.io/github/stars/pluto1114/vue-music-qq.svg?style=social&label=Star&maxAge=2592000) A qq-music project is based on vue-cli. The pages are simple and smooth
 
 - #### Boilerplates
@@ -899,7 +899,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) good, will add link to github
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) good
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo) good
-  - [vue-music163](https://github.com/pluto1114/vue-music163.git) seems good (app not in english)
+  - [vue-music163](https://github.com/pluto1114/vue-music163.git) seems good
   - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) good
   - [Demo of Bureaufast workflow egine](https://github.com/yetaai/bureaufast) no description, website not loading, error
   - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup> no description (app/website category?)
@@ -911,8 +911,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) good
   - [SDR News](https://news.superdevresources.com/) <sup>[[Source]](https://github.com/super-dev/SDR-News)</sup> good
   - [**PJ Blog** ![PJ Blog](https://img.shields.io/github/stars/jcc/blog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/blog) good
-  - [**Lulumi-browser** ![Lulumi-browser](https://img.shields.io/github/stars/qazbnm456/lulumi-browser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/qazbnm456/lulumi-browser): Lulumi-browser is a light weight browser coded with vue and electron TOREVIEW
-  - [**vue-wordpress-pwa** ![vue-wordpress-pwa](https://img.shields.io/github/stars/bstavroulakis/vue-wordpress-pwa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bstavroulakis/vue-wordpress-pwa): An offline-first SPA using Vue.js and the WordPress REST API - Progressive Web App enabled TOREVIEW
+  - [**Lulumi-browser** ![Lulumi-browser](https://img.shields.io/github/stars/qazbnm456/lulumi-browser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/qazbnm456/lulumi-browser) good
+  - [**vue-wordpress-pwa** ![vue-wordpress-pwa](https://img.shields.io/github/stars/bstavroulakis/vue-wordpress-pwa.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bstavroulakis/vue-wordpress-pwa) good
 
 - #### Commercial Products
 
@@ -921,7 +921,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
     - [FlexChart for VueJS](http://demos.wijmo.com/5/Vue/FlexChartIntro/FlexChartIntro/) part of Wijmo
     - [Input Controls for VueJS](http://demos.wijmo.com/5/Vue/InputIntro/InputIntro/) part of Wijmo
     - [Gauges for VueJS](http://demos.wijmo.com/5/Vue/GaugeIntro/GaugeIntro/) part of Wijmo
-    - [Collate Notes](http://www.collatenotes.com/) - Cross platform note taking application built with Vue2 and Electron. TOREVIEW
+    - [Collate Notes](http://www.collatenotes.com/) good
 
 - #### Apps/Websites
 
@@ -929,10 +929,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vice Video](https://video.vice.com/) good
   - [Formlets](https://www.formlets.com) good
   - [Laracasts](https://laracasts.com) good
-  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/) good
-  - [CUUSOO](https://cuusoo.com) seems good
+  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/) closed?
+  - [CUUSOO](https://cuusoo.com) login page (should replace the link)
   - [esa.io](https://esa.io/) good
-  - [N1.ru](http://n1.ru) good (no english)
+  - [N1.ru](http://n1.ru) home page almost empty (should replace the link)
   - [稀土掘金](http://gold.xitu.io) good (no english)
   - [Prague Airport](http://www.prague-airport.com/) good
   - [Expressionery](https://www.expressionery.com) infinite loading
@@ -943,37 +943,37 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Laravist](https://laravist.com/) good
   - [Atiiv](https://atiiv.com) good
   - [Statamic](https://statamic.com) good
-  - [Embalses!](http://embalses.azurewebsites.net/) good
+  - [Embalses!](http://embalses.azurewebsites.net/) too simple
   - [TravelMap](http://clem.travelmap.fr) good
-  - [movienote.org](http://movienote.org) good
+  - [movienote.org](http://movienote.org) too simple
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) good
   - [CheckIt ★0](https://github.com/julesbou/checkit) good link to the website
   - [Reddit News ★34](https://github.com/Mati365/reddit-news) good
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/) good
   - [小桃酱](https://app.xiaotaojiang.com/) good
-  - [金哲博客](http://jinzhe.net/) good
+  - [金哲博客](http://jinzhe.net/) no blog
   - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) good link to the website
-  - [Zova](https://zova.com/) good
+  - [Zova](https://zova.com/) too simple
   - [风投侠](https://vcshare.cn/) infinite loading
   - [COPA 2016](http://www.ca2016.com/) error
   - [vNotes](https://halfeld.github.io/v-notes/#!/) good
-  - [Subordination](http://subordination.cu.cc/) good
-  - [SPA Blog](http://ktquez.com/) good
-  - [WP ERP](https://wordpress.org/plugins/erp/) good
-  - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
+  - [Subordination](http://subordination.cu.cc/) website not interesting (should go to opensource category)
+  - [SPA Blog](http://ktquez.com/) no blog
+  - [WP ERP](https://wordpress.org/plugins/erp/) not link to wr erp website
+  - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home) hmm
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) opensource webmail client written in Vue, no website
   - [octimine](https://www.octimine.com/) good
   - [Draxed](https://www.draxed.com/) good
-  - [蜜蜂聚财](http://www.beejc.com/webapp/) redirect to http://app.beejc.com
+  - [蜜蜂聚财](http://www.beejc.com/webapp/) redirect to http://app.beejc.com mobile/ not responsive
   - [Leapspotleap](http://www.leapspotleap.com) good
-  - [Bayo](http://bayo.vn) good (no english)
-  - [X-SONGTAO★11](http://xiangsongtao.com) good (no english)
-  - [Cinemateka](http://cinema.seance.ru)
+  - [Bayo](http://bayo.vn) error page
+  - [X-SONGTAO★11](http://xiangsongtao.com) no blog
+  - [Cinemateka](http://cinema.seance.ru) good
   - [Jobinja](https://jobinja.ir) good no english
   - [滚蛋吧！莆田系](https://putianxi.github.io/) good no english
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/) good
-  - [Citymoods](http://citymoods.cc) good
-  - [Approach0](http://approach0.xyz) good
+  - [Citymoods](http://citymoods.cc) good idea but not enough content
+  - [Approach0](http://approach0.xyz) not visually attractive
   - [The Spice House](https://www.thespicehouse.com) good
   - [豆瓣 ★198](https://github.com/jiakeqi/douban) no english, no idea what it is
   - [Livestorm](http://livestorm.co) good
@@ -982,25 +982,25 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Holden](https://www.holden.com.au) good
   - [Global-Exam](https://global-exam.com) good
   - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) open source project website
-  - [LIHKG討論區](https://lihk-forum.firebaseapp.com) seems good (no english)
+  - [LIHKG討論區](https://lihk-forum.firebaseapp.com) too simple
   - [FreePoll.Online](https://www.freepoll.online) good
   - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app) opensource app
   - [12BAY.VN](https://12bay.vn) seems good - no english
   - [PLAYCODE.IO](https://playcode.io) good
-  - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) simplistic but seems good? (part of a project courses)
+  - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) too simple
   - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) good
   - [The Void Radio](http://thevoidrad.io) good
-  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) good, too simple?
+  - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) too simple
   - [Storyblok](https://www.storyblok.com) good
-  - [WizzAir](https://wizzair.com/) TOREVIEW
-  - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS, also [open source](https://github.com/MovingToHTTPS/movingtohttps.com). TOREVIEW
-  - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics. TOREVIEW
-  - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) - A collaborative writing game. TOREVIEW
-  - [Coypu](https://coypu.co) - Text-editor-like weekly planner TOREVIEW
-  - [wxsm's space](https://wxsm.space) - A static blog system by vue 2.0, purely front-end after built and packaging. TOREVIEW
-  - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News; [article how it was built](http://devan.blaze.com.au/blog/2017/3/3/tophn-a-fun-side-project-built-with-vuejs-and-rethinkdb) TOREVIEW
-  - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) - Full Stack Weekly is free weekly newsletter for full stack developers. TOREVIEW
-  - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000)  - 「ONE · 一个」Vue复刻版 / A replication of http://wufazhuce.com/ in Vue TOREVIEW
+  - [WizzAir](https://wizzair.com/) good
+  - [Moving to HTTPS](https://movingtohttps.com/) good
+  - [Booknshelf](https://booknshelf.com/) good
+  - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) open source (content website empty for the moment)
+  - [Coypu](https://coypu.co) good
+  - [wxsm's space](https://wxsm.space) no blog
+  - [Top HN](https://tophn.info/) good
+  - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) demo of an open source project
+  - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000) replication, original down
 
 - #### Interactive Experiences
 
@@ -1040,8 +1040,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
   - [ZenMate](https://zenmate.com)
   - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
-  - [Tuniu mp](https://m.tuniu.com/m2015/mpChannel/index) TOREVIEW
-  - [Livestorm](https://livestorm.co) TOREVIEW
+  - [Tuniu mp](https://m.tuniu.com/m2015/mpChannel/index) link to a mobile page
+  - [Livestorm](https://livestorm.co) already in websites
 
 ### Books
 
