@@ -631,6 +631,7 @@ Tooltips / popovers
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 - [vue-text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
+- [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 #### Rich Text Editing
 
