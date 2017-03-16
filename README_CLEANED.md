@@ -920,6 +920,7 @@ Tooltips / popovers
  - [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple cli wrapper around the vue-component-compiler.
  - [vue-brunch](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
  - [vbuild](https://github.com/egoist/vbuild) - Fast prototype and distribute modern web apps like a pro.
+ - [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - Load .vue files directly from your html/js without node.js environment nor build step.
 
 ### Miscellaneous
 - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
