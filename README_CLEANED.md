@@ -891,6 +891,7 @@ Tooltips / popovers
  - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage.
  - [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin) - A plugin for syncing Vuex store with js-data.
  - [vuex-local](https://github.com/ktsn/vuex-local) - Local state management within Vuex.
+ - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to easily create and manage actions.
 
 ###### Sync Between Tabs
 
