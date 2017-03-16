@@ -513,6 +513,7 @@ Tooltips / popovers
  - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
  - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.
  - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
+ - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
 ### Time
 
