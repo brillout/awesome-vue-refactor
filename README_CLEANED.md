@@ -1058,7 +1058,7 @@ Tooltips / popovers
 
 ### Client
 
-*Render Vue application in the browser*
+*Render Vue application in the browser only*
 
  - [Vue Plugin Boilerplate](https://github.com/kazupon/vue-plugin-boilerplate) - Boilerplate for Vue.js plugin.
  - [Bourgeon](https://github.com/rayfranco/bourgeon) - Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack.
@@ -1070,7 +1070,7 @@ Tooltips / popovers
 
 ### Universal
 
-*Render Vue application both to HTML on the server and to DOM in the browser*
+*Render Vue application to HTML on the server and to the DOM in the browser*
 
  - [SPA Starter Kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js.
  - [SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex.
