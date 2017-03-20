@@ -75,7 +75,7 @@
 - [vue-requests ★27](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 - [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 - [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
-
+- [vueslack - 1300+ registered users worldwide](https://vueslack.com/)
 ### Podcasts
 
 - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
@@ -120,7 +120,7 @@
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 - [**讲解Vue.js 官网 中文-含代码、百度云、youtube ★672**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
-- [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
+- [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
@@ -146,6 +146,8 @@
 - [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 - [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 - [Building a JSON Tree View Component in Vue.js from Scratch in Six Steps](https://devblog.digimondo.io/building-a-json-tree-view-component-in-vue-js-from-scratch-in-six-steps-ce0c05c2fdd8#.738ok0l4p) on [digimondo devblog](https://devblog.digimondo.io/) by [Arvid Kahl](https://www.twitter.com/arvidkahldev)
+ - [Bootstrapping your first Vue.js application using vue-cli](https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/) by [@afropolymath](https://twitter.com/afropolymath)
+ - [Bulid vue-hackernews-2.0 from Scratch](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 
 #### 0.12 and earlier
 
@@ -332,6 +334,9 @@
 - [CoreUI](http://coreui.io) couldn't find Vue documentation, the Vue part seems to be more of a boilerplate than a library
 - [ATUI](http://aliqin.github.io/) doc not in english
 - [vue-collapse](https://github.com/cezardasilva/vue-collapse) no live demo
+- [vue-treeflow](https://github.com/yimian/vue-treeflow) no v2, no live demo
+- [v-dispicker](https://github.com/jcc/v-distpicker) should state v2 support
+- [vue-emoji](https://github.com/rishiqing/vue-emoji) readme not in english
 
 ### Libraries & Plugins
 
@@ -425,6 +430,7 @@
   - [Form generation from JSON Schema ★22](https://github.com/dgerber/vue-formidable) unmaintained
   - [vue-panel ★40](https://github.com/ericmcdaniel/vue-panel) unmaintained
   - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/) no v2
+  - [vue2-google-maps](https://github.com/xkjyeah/vue-google-maps) good
   - [vue-transition ★39](https://github.com/Twiknight/vue-transition) unmaintained
   - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons) unmaintained
   - [Vue YouTube Embed ★19](https://github.com/kaorun343/vue-youtube-embed) good
@@ -580,6 +586,12 @@
   - [vue-toasted](https://shakee93.github.io/vue-toasted) good
   - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) npm package missing
   - [vue trend](https://github.com/QingWei-Li/vue-trend) good
+  - [vuedals](https://github.com/javisperez/vuedals) PR pending
+  - [vue-dialog](https://github.com/javisperez/vue-dialog) PR pending
+  - [vue-longpress ★14](https://github.com/javisperez/vuelongpress) PR pending
+  - [vue-visible](https://github.com/javisperez/vue-visible) PR pending
+  - [vue-js-modal](https://github.com/euvl/vue-js-modal) doesn't state if v2 is supported
+  - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) doesn't state if v2 is supported
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n) good
@@ -636,7 +648,6 @@
   - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
   - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
   - [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
-  - [vue-demo-sale-platform](https://github.com/fishenal/Vuejs-SalePlatform) a simply vue2.0 demo built with Vue 2.0, vue-router, vue-cli, include mockdata server, some common components. by [fishenal](https://github.com/fishenal)
   - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
@@ -686,7 +697,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-boilerplate](https://github.com/MillerRen/vue-boilerplate) readme is lacking
   - [bourgeon ★9](https://github.com/rayfranco/bourgeon) good
   - [vue-ssr-hmr-template ★42](https://github.com/hilongjw/vue-ssr-hmr-template) demo is not in english
-  - [Vuejs Starter Kit 2 ★12] (https://github.com/MetinSeylan/VuejsStarterKit) doc is lacking
+  - [Vuejs Starter Kit 2 ★12](https://github.com/MetinSeylan/VuejsStarterKit) doc is lacking
   - [vue-cli-template](https://github.com/xpepermint/vue-cli-template) readme is lacking
   - [vue-adonis](https://github.com/Atinux/vue-adonis) deprecated
   - [A simple template for Vue.js plugin](https://github.com/znck/vue-plugin-simple) readme is lacking
@@ -733,6 +744,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Neutronium](https://github.com/David-Desmaisons/Neutronium) good
   - [vue-threejs](https://github.com/fritx/vue-threejs) good
   - [Framework7-Vue ★113](https://github.com/nolimits4web/Framework7-Vue) duplicate
+  - [require-vuejs](https://github.com/edgardleal/require-vuejs) readme could elaborate more on why someone would want to dynamically load .vue components
 
 - #### General Plugins/Directives
 
@@ -771,7 +783,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula) good
   - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll) good
   - [vue-toast-mobile ★28](https://github.com/ElemeFE/vue-toast-mobile) no demo
-  - [vue-indicator ★9](https://github.com/mint-/mint-indicator) 404
+  - [vue-indicator ★9](https://github.com/mint-ui/mint-indicator) no live demo, should state that it supports v2
   - [vue-msgbox ★46](https://github.com/ElemeFE/vue-msgbox) no demo
   - [vue-scroll ★12](https://github.com/suguangwen/vue-scroll) readme not in english
   - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside) doesn't mention if it works with v2
@@ -791,7 +803,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component) no v2
   - [v-media-query](https://github.com/AStaroverov/v-media-query) doesn't state support for v2
   - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue) good (although it should explicitly state that v2 is supported)
-  - [v-pagination] (https://github.com/matfish2/vue-pagination) no v2
+  - [v-pagination](https://github.com/matfish2/vue-pagination) no v2
   - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) good
   - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) no v2
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) no english doc
@@ -837,6 +849,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) good
   - [vuec](https://github.com/dealloc/vuec) should elaborate more on why dependency injection should be used
   - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload) good
+  - [vue-konami-code](https://github.com/azzra/vue-konami-code) not a library
+  - [vue-styled-components](https://github.com/styled-components/vue-styled-components) should state v2 support
 
 
 - #### SEO
@@ -1001,6 +1015,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Top HN](https://tophn.info/) good
   - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) demo of an open source project
   - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000) replication, original down
+  - [Surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application blog built with Nuxt.js for nodepress. TOREVIEW
+  - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France. TOREVIEW
+  - [AdhocDB](https://adhocdb.com) - Lightweight backend for contact forms optimized for websites and serverless apps. Supports sending email notifications when new data appear. TOREVIEW
+  - [Roozame Ø±ÙØ²Ø§ÙÙ](http://www.roozame.com) - Roozame is a persian smart news media service. TOREVIEW
 
 - #### Interactive Experiences
 
@@ -1017,6 +1035,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Meet Graham](http://www.meetgraham.com.au) good
   - [NOIZE original](http://noizeoriginal.com) good
   - [Jason Bourne : Remember Everything](http://www.remembereverything.com) not available anymore
+  - [listentothe.cloud](http://listentothe.cloud/) - Ambient music player plus live talks from airports worldwide by Anders Ãberg TOREVIEW
 
 - #### Enterprise Usage
 
@@ -1045,8 +1064,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 ### Books
 
-- [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) TOREVIEW
-- [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) TOREVIEW
+- [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) good
+- [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) good
 
 ## License
 
