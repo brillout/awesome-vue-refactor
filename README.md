@@ -1015,10 +1015,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Top HN](https://tophn.info/) good
   - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) demo of an open source project
   - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000) replication, original down
-  - [Surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application blog built with Nuxt.js for nodepress. TOREVIEW
-  - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France. TOREVIEW
-  - [AdhocDB](https://adhocdb.com) - Lightweight backend for contact forms optimized for websites and serverless apps. Supports sending email notifications when new data appear. TOREVIEW
-  - [Roozame Ø±ÙØ²Ø§ÙÙ](http://www.roozame.com) - Roozame is a persian smart news media service. TOREVIEW
+  - [Surmon.me](https://github.com/surmon-china/surmon.me) link to github, no blog
+  - [Euronews](http://www.euronews.com) good
+  - [AdhocDB](https://adhocdb.com) too simple
+  - [Roozame Ø±ÙØ²Ø§ÙÙ](http://www.roozame.com) seems good no english
 
 - #### Interactive Experiences
 
