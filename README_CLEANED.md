@@ -442,7 +442,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 ## UI Components
 
-### 
+### Table
 
 *Tables / data grids*
 
