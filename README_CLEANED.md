@@ -444,7 +444,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 ### 
 
-
 *Tables / data grids*
 
  - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.
