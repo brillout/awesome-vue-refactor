@@ -32,6 +32,7 @@
     - [Loader](#loader)
       - [Progress Bar](#progress-bar)
     - [Tooltip](#tooltip)
+    - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
     - [Menu](#menu)
@@ -46,7 +47,6 @@
     - [Tree](#tree)
     - [Social Sharing](#social-sharing)
     - [QR Code](#qr-code)
-    - [Modals](#modals)
     - [Miscellaneous](#miscellaneous)
     - [Form](#form)
       - [Date Picker](#date-picker)
@@ -453,7 +453,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server side component to create dynamic tables.
  - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) - Vue adaptor for ag-Grid.
- - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui.
+ - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
 
 ### Notification
 
@@ -484,6 +484,12 @@ Tooltips / popovers
 
  - [v-tooltip](https://github.com/Akryum/vue-tooltip) - Easy tooltips with Vue 2.x.
  - [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) - Popper.js directive for Vue.js.
+
+### Overlay
+
+*Overlay / modal / alert / dialog / lightbox / popup*
+
+- [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 
 ### Parallax
 
@@ -572,12 +578,6 @@ Tooltips / popovers
 
  - [vue-qriously](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
  - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
-
-### Modals
-
-*Modals / dialogs / alerts / confirms*
-
-- [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 
 ### Miscellaneous
 
@@ -843,7 +843,7 @@ Tooltips / popovers
 
  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) - Interceptor that ties a progressbar to all requests, that it is clear that something is loading.
  - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
- - [vue-visible](https://github.com/javisperez/vue-visible) -  A v-visible directive for VueJS (2.x), like v-show but for visibility
+ - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
 
 
 
