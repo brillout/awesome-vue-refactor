@@ -490,6 +490,7 @@ Tooltips / popovers
 *Overlay / modal / alert / dialog / lightbox / popup*
 
 - [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
+- [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) - iOS7+ style alertview service for Vue 2.
 
 ### Parallax
 
