@@ -534,7 +534,7 @@
   - [vue-online](https://github.com/Sopamo/vue-online) added value too small / shouldn't be a ui component, no live demo
   - [vuetify **★951**](https://github.com/vuetifyjs/vuetify) good
   - [v-tooltip](https://github.com/Akryum/vue-tooltip) good
-  - [vue-at](https://github.com/fritx/vue-at) no live demo
+  - [vue-at](https://github.com/fritx/vue-at) 
   - [vue-parallax](https://github.com/apertureless/vue-parallax) good
   - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) good
   - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) good
