@@ -710,6 +710,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue all-in Typescript example ](https://github.com/Jack85/vuejs-typescript-template) is more an example than a boilerplate
   - [vue-mix ★5](https://github.com/cklmercer/vue-mix) readme is lacking
   - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) good (although it should state its v2 support beyond just a GitHub tag)
+  - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.
 
 - #### Scaffolding
 
